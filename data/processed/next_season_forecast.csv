@@ -1,0 +1,501 @@
+sku_id,product_name,category,color,size,cost_price,mrp,units_purchased,sell_through_rate,status,bleed_score,predicted_units_next_season,units_min,units_max,vs_last_season,buying_signal,estimated_capital_needed
+SKU-0049,Dabu print Kurta (Georgette),Kurta,Terracotta,XL,469,1780,146,0.027,Warning,23.35,28,24,32,-118,Buy much less,13132
+SKU-0233,Block print Coord Set (Cotton),Coord Set,Charcoal,XL,691,1974,146,0.048,Critical,43.79,29,25,33,-117,Buy much less,20039
+SKU-0059,Dabu print Kurta (Chanderi),Kurta,Terracotta,XXL,439,1725,144,0.042,Critical,51.73,29,25,33,-115,Buy much less,12731
+SKU-0349,Chikankari Dupatta (Cotton),Dupatta,Rust,L,261,833,144,0.056,Critical,54.75,29,25,33,-115,Buy much less,7569
+SKU-0232,Kalamkari Coord Set (Cotton),Coord Set,Terracotta,XXL,786,2476,143,0.091,Healthy,12.73,30,26,34,-113,Buy much less,23580
+SKU-0498,Mirror work Palazzo (Mul mul),Palazzo,Ivory,M,203,763,143,0.091,Critical,59.99,31,26,36,-112,Buy much less,6293
+SKU-0079,Mirror work Kurta (Georgette),Kurta,Ivory,XS,569,990,146,0.11,Critical,82.77,35,30,40,-111,Buy much less,19915
+SKU-0067,Kalamkari Kurta (Silk blend),Kurta,Teal,XL,535,1347,140,0.171,Critical,46.42,30,26,34,-110,Buy much less,16050
+SKU-0038,Block print Kurta (Linen),Kurta,Mauve,M,386,1229,145,0.172,Critical,43.06,35,30,40,-110,Buy much less,13510
+SKU-0331,Chikankari Dupatta (Rayon),Dupatta,Sage green,S,182,398,139,0.043,Warning,20.1,29,25,33,-110,Buy much less,5278
+SKU-0215,Ikat Coord Set (Linen),Coord Set,Teal,S,565,1734,144,0.111,Critical,91.57,35,30,40,-109,Buy much less,19775
+SKU-0063,Shibori Kurta (Linen),Kurta,Ivory,XS,362,1228,141,0.0,Critical,112.0,34,29,39,-107,Buy much less,12308
+SKU-0352,Mirror work Dupatta (Georgette),Dupatta,Ochre,XS,207,619,139,0.101,Critical,75.52,34,29,39,-105,Buy much less,7038
+SKU-0186,Chikankari Saree (Chanderi),Saree,Ivory,XS,1388,4212,133,0.038,Healthy,2.89,29,25,33,-104,Buy much less,40252
+SKU-0317,Kalamkari Dupatta (Mul mul),Dupatta,Ochre,S,168,754,132,0.098,Warning,27.96,29,25,33,-103,Buy much less,4872
+SKU-0234,Ajrakh Coord Set (Rayon),Coord Set,Ochre,XXL,576,2582,131,0.038,Critical,45.21,29,25,33,-102,Buy much less,16704
+SKU-0306,Dabu print Dupatta (Linen),Dupatta,Rust,S,244,481,131,0.038,Healthy,7.7,29,25,33,-102,Buy much less,7076
+SKU-0367,Kalamkari Dupatta (Cotton),Dupatta,Terracotta,M,209,644,134,0.172,Warning,22.36,32,27,37,-102,Buy much less,6688
+SKU-0339,Shibori Dupatta (Mul mul),Dupatta,Teal,XS,229,595,146,0.075,Healthy,7.4,45,38,52,-101,Buy much less,10305
+SKU-0050,Kalamkari Kurta (Cotton),Kurta,Terracotta,S,628,1076,140,0.221,Critical,63.88,40,34,46,-100,Buy much less,25120
+SKU-0097,Shibori Kurta (Chanderi),Kurta,Charcoal,XS,383,1027,140,0.121,Healthy,2.64,40,34,46,-100,Buy much less,15320
+SKU-0418,Bandhani Dress (Silk blend),Dress,Mauve,S,620,1632,130,0.154,Healthy,16.92,30,26,34,-100,Buy much less,18600
+SKU-0390,Ajrakh Dress (Silk blend),Dress,Sage green,M,511,1582,128,0.133,Warning,27.74,28,24,32,-100,Buy much less,14308
+SKU-0204,Dabu print Coord Set (Linen),Coord Set,Teal,S,732,1988,132,0.068,Critical,65.24,33,28,38,-99,Buy much less,24156
+SKU-0018,Ikat Kurta (Linen),Kurta,Terracotta,L,377,1569,132,0.098,Healthy,0.9,33,28,38,-99,Buy much less,12441
+SKU-0392,Ikat Dress (Linen),Dress,Rust,M,424,1756,127,0.11,Critical,54.29,29,25,33,-98,Buy much less,12296
+SKU-0089,Mirror work Kurta (Mul mul),Kurta,Indigo,XXL,415,1024,127,0.142,Critical,44.62,30,26,34,-97,Buy much less,12450
+SKU-0350,Ajrakh Dupatta (Linen),Dupatta,Ochre,XXL,253,600,146,0.445,Healthy,12.76,49,42,56,-97,Buy much less,12397
+SKU-0141,Bandhani Saree (Cotton),Saree,Blush pink,S,1560,5510,125,0.072,Critical,49.18,29,25,33,-96,Buy much less,45240
+SKU-0159,Block print Saree (Georgette),Saree,Blush pink,M,1840,5840,124,0.089,Warning,30.97,29,25,33,-95,Buy much less,53360
+SKU-0187,Bandhani Saree (Linen),Saree,Teal,S,2046,3207,125,0.024,Critical,53.68,30,26,34,-95,Buy much less,61380
+SKU-0472,Bandhani Palazzo (Silk blend),Palazzo,Terracotta,XS,212,789,124,0.065,Critical,53.3,29,25,33,-95,Buy much less,6148
+SKU-0121,Ikat Saree (Rayon),Saree,Ochre,XS,1353,4235,130,0.038,Critical,96.2,35,30,40,-95,Buy much less,47355
+SKU-0216,Bandhani Coord Set (Rayon),Coord Set,Indigo,XL,685,2669,128,0.141,Critical,68.72,34,29,39,-94,Buy much less,23290
+SKU-0438,Dabu print Dress (Linen),Dress,Rust,XXL,505,1545,122,0.115,Warning,37.17,28,24,32,-94,Buy much less,14140
+SKU-0212,Mirror work Coord Set (Georgette),Coord Set,Ivory,L,534,1844,123,0.057,Critical,56.58,30,26,34,-93,Buy much less,16020
+SKU-0311,Mirror work Dupatta (Rayon),Dupatta,Sage green,M,195,379,123,0.041,Critical,53.7,31,26,36,-92,Buy much less,6045
+SKU-0223,Block print Coord Set (Mul mul),Coord Set,Blush pink,L,703,1564,137,0.153,Healthy,14.4,45,38,52,-92,Buy much less,31635
+SKU-0218,Bagru print Coord Set (Georgette),Coord Set,Charcoal,L,540,1717,132,0.174,Warning,26.43,40,34,46,-92,Buy much less,21600
+SKU-0247,Chikankari Coord Set (Linen),Coord Set,Ochre,XL,861,1958,121,0.041,Critical,48.91,29,25,33,-92,Buy much less,24969
+SKU-0280,Kalamkari Coord Set (Rayon),Coord Set,Sage green,XS,741,1892,142,0.246,Warning,27.9,51,43,59,-91,Buy much less,37791
+SKU-0358,Ajrakh Dupatta (Rayon),Dupatta,Mauve,XL,277,617,130,0.1,Healthy,5.4,39,33,45,-91,Buy much less,10803
+SKU-0137,Bandhani Saree (Georgette),Saree,Indigo,S,817,2968,121,0.157,Warning,23.6,30,26,34,-91,Buy much less,24510
+SKU-0109,Mirror work Kurta (Linen),Kurta,Ivory,XXL,569,1024,131,0.038,Healthy,1.92,40,34,46,-91,Buy much less,22760
+SKU-0087,Ajrakh Kurta (Mul mul),Kurta,Ivory,XXL,467,1720,123,0.073,Critical,67.67,33,28,38,-90,Buy much less,15411
+SKU-0145,Ikat Saree (Rayon),Saree,Mauve,XXL,1506,5390,127,0.268,Critical,40.26,37,31,43,-90,Buy much less,55722
+SKU-0334,Ikat Dupatta (Silk blend),Dupatta,Ochre,L,163,446,118,0.051,Warning,21.83,29,25,33,-89,Buy much less,4727
+SKU-0072,Bandhani Kurta (Georgette),Kurta,Rust,XL,440,1663,121,0.033,Critical,75.43,33,28,38,-88,Buy much less,14520
+SKU-0489,Ikat Palazzo (Silk blend),Palazzo,Mauve,XS,226,603,122,0.016,Critical,173.18,34,29,39,-88,Buy much less,7684
+SKU-0220,Dabu print Coord Set (Silk blend),Coord Set,Ochre,XXL,663,1700,122,0.033,Critical,78.33,35,30,40,-87,Buy much less,23205
+SKU-0098,Block print Kurta (Chanderi),Kurta,Sage green,XS,405,1299,142,0.289,Critical,39.1,56,48,64,-86,Buy much less,22680
+SKU-0264,Ikat Coord Set (Cotton),Coord Set,Teal,S,725,1908,134,0.291,Critical,58.85,50,42,57,-84,Buy much less,36250
+SKU-0374,Mirror work Dress (Cotton),Dress,Charcoal,L,726,2009,113,0.08,Warning,39.56,29,25,33,-84,Buy much less,21054
+SKU-0133,Shibori Saree (Georgette),Saree,Sage green,XXL,1754,3405,117,0.274,Critical,47.92,34,29,39,-83,Buy much less,59636
+SKU-0463,Ajrakh Palazzo (Georgette),Palazzo,Charcoal,XS,369,751,115,0.096,Healthy,6.33,33,28,38,-82,Buy much less,12177
+SKU-0147,Bandhani Saree (Cotton),Saree,Charcoal,S,927,4968,132,0.25,Critical,48.75,51,43,59,-81,Buy much less,47277
+SKU-0474,Bandhani Palazzo (Chanderi),Palazzo,Teal,M,206,755,111,0.153,Critical,50.82,30,26,34,-81,Buy much less,6180
+SKU-0491,Block print Palazzo (Rayon),Palazzo,Teal,L,320,590,139,0.187,Healthy,2.44,59,50,68,-80,Buy much less,18880
+SKU-0416,Block print Dress (Mul mul),Dress,Charcoal,S,605,1570,114,0.018,Critical,166.94,34,29,39,-80,Buy much less,20570
+SKU-0191,Block print Saree (Linen),Saree,Rust,M,1180,4707,116,0.043,Healthy,2.87,36,31,41,-80,Buy much less,42480
+SKU-0426,Ikat Dress (Chanderi),Dress,Terracotta,XXL,443,1640,113,0.018,Critical,163.01,34,29,39,-79,Buy much less,15062
+SKU-0325,Bagru print Dupatta (Cotton),Dupatta,Rust,M,250,436,114,0.105,Critical,80.55,35,30,40,-79,Buy much less,8750
+SKU-0319,Ikat Dupatta (Cotton),Dupatta,Sage green,XL,179,713,137,0.241,Healthy,2.28,58,49,67,-79,Buy much less,10382
+SKU-0117,Bandhani Kurta (Rayon),Kurta,Mauve,XL,619,1777,107,0.009,Critical,42.61,29,25,33,-78,Buy much less,17951
+SKU-0441,Ajrakh Dress (Silk blend),Dress,Teal,XXL,558,1456,111,0.189,Critical,50.28,33,28,38,-78,Buy much less,18414
+SKU-0314,Shibori Dupatta (Mul mul),Dupatta,Terracotta,S,209,749,106,0.057,Warning,36.78,29,25,33,-77,Buy much less,6061
+SKU-0176,Block print Saree (Silk blend),Saree,Rust,XXL,1489,3049,140,0.25,Healthy,0.75,63,54,72,-77,Buy much less,93807
+SKU-0058,Ajrakh Kurta (Rayon),Kurta,Rust,S,414,1366,116,0.224,Warning,29.49,42,36,48,-74,Buy much less,17388
+SKU-0279,Bagru print Coord Set (Georgette),Coord Set,Mauve,XS,648,2049,119,0.235,Healthy,2.3,45,38,52,-74,Buy much less,29160
+SKU-0447,Bandhani Dress (Cotton),Dress,Charcoal,XL,667,1766,142,0.176,Healthy,2.47,69,59,79,-73,Buy much less,46023
+SKU-0481,Bandhani Palazzo (Chanderi),Palazzo,Indigo,XS,281,1023,109,0.193,Warning,32.28,36,31,41,-73,Buy much less,10116
+SKU-0417,Block print Dress (Mul mul),Dress,Ivory,L,654,2136,123,0.26,Critical,42.92,51,43,59,-72,Buy much less,33354
+SKU-0185,Chikankari Saree (Georgette),Saree,Indigo,L,1162,5708,107,0.14,Critical,85.14,35,30,40,-72,Buy much less,40670
+SKU-0206,Shibori Coord Set (Linen),Coord Set,Charcoal,XS,816,2034,105,0.019,Critical,70.63,34,29,39,-71,Buy much less,27744
+SKU-0160,Mirror work Saree (Cotton),Saree,Indigo,XS,1460,5352,134,0.433,Healthy,11.34,64,54,74,-70,Buy much less,93440
+SKU-0373,Bandhani Dress (Georgette),Dress,Charcoal,S,532,1431,103,0.01,Critical,133.65,34,29,39,-69,Buy much less,18088
+SKU-0411,Chikankari Dress (Chanderi),Dress,Teal,XXL,441,2153,111,0.054,Healthy,1.89,42,36,48,-69,Buy much less,18522
+SKU-0252,Bandhani Coord Set (Mul mul),Coord Set,Teal,M,649,2204,102,0.088,Critical,93.02,34,29,39,-68,Buy much less,22066
+SKU-0371,Chikankari Dress (Cotton),Dress,Sage green,S,427,1958,95,0.147,Critical,43.5,28,24,32,-67,Buy much less,11956
+SKU-0061,Kalamkari Kurta (Cotton),Kurta,Blush pink,M,598,1625,128,0.445,Warning,26.08,61,52,70,-67,Buy much less,36478
+SKU-0122,Ajrakh Saree (Chanderi),Saree,Mauve,M,1750,4536,126,0.341,Healthy,13.84,60,51,69,-66,Buy much less,105000
+SKU-0015,Dabu print Kurta (Chanderi),Kurta,Rust,XS,632,1342,125,0.112,Healthy,2.66,60,51,69,-65,Buy much less,37920
+SKU-0047,Chikankari Kurta (Mul mul),Kurta,Ochre,XL,409,1569,123,0.065,Healthy,1.87,59,50,68,-64,Buy much less,24131
+SKU-0127,Ikat Saree (Mul mul),Saree,Mauve,XL,1792,3839,135,0.296,Healthy,0.7,71,60,82,-64,Buy much less,127232
+SKU-0372,Ikat Dress (Chanderi),Dress,Mauve,M,743,2089,113,0.389,Critical,46.44,49,42,56,-64,Buy much less,36407
+SKU-0253,Ajrakh Coord Set (Silk blend),Coord Set,Teal,XL,577,2500,96,0.26,Critical,62.9,34,29,39,-62,Buy much less,19618
+SKU-0266,Mirror work Coord Set (Silk blend),Coord Set,Ochre,L,810,1661,145,0.559,Critical,23.37,83,71,95,-62,Buy much less,67230
+SKU-0115,Kalamkari Kurta (Linen),Kurta,Indigo,XXL,443,1044,149,0.463,Healthy,0.54,88,75,101,-61,Buy much less,38984
+SKU-0099,Bagru print Kurta (Linen),Kurta,Terracotta,L,602,1641,107,0.196,Warning,22.51,46,39,53,-61,Buy much less,27692
+SKU-0119,Block print Kurta (Cotton),Kurta,Ivory,XS,372,1524,95,0.053,Critical,117.43,34,29,39,-61,Buy much less,12648
+SKU-0085,Shibori Kurta (Linen),Kurta,Ivory,M,494,1034,91,0.209,Critical,42.71,31,26,36,-60,Buy much less,15314
+SKU-0008,Ajrakh Kurta (Chanderi),Kurta,Sage green,XXL,540,1351,107,0.206,Healthy,1.59,47,40,54,-60,Buy much less,25380
+SKU-0094,Bagru print Kurta (Cotton),Kurta,Rust,M,357,1309,90,0.289,Critical,47.64,32,27,37,-58,Buy much less,11424
+SKU-0406,Bagru print Dress (Georgette),Dress,Indigo,M,581,1421,116,0.112,Healthy,1.78,59,50,68,-57,Buy much less,34279
+SKU-0211,Bagru print Coord Set (Cotton),Coord Set,Rust,L,710,2061,144,0.333,Healthy,1.33,89,76,102,-55,Buy much less,63190
+SKU-0236,Block print Coord Set (Mul mul),Coord Set,Terracotta,XL,588,2124,89,0.146,Critical,77.71,34,29,39,-55,Buy much less,19992
+SKU-0365,Bagru print Dupatta (Linen),Dupatta,Rust,XL,212,458,85,0.141,Critical,51.54,31,26,36,-54,Buy much less,6572
+SKU-0422,Mirror work Dress (Mul mul),Dress,Mauve,L,682,1373,83,0.012,Healthy,15.81,29,25,33,-54,Buy much less,19778
+SKU-0177,Kalamkari Saree (Chanderi),Saree,Charcoal,M,1912,4576,96,0.229,Warning,30.07,42,36,48,-54,Buy much less,80304
+SKU-0446,Bandhani Dress (Mul mul),Dress,Terracotta,L,574,1988,83,0.096,Critical,56.95,30,26,34,-53,Buy much less,17220
+SKU-0326,Ajrakh Dupatta (Rayon),Dupatta,Sage green,S,247,745,100,0.42,Critical,41.76,47,40,54,-53,Buy much less,11609
+SKU-0245,Bagru print Coord Set (Cotton),Coord Set,Terracotta,XL,896,1558,85,0.047,Critical,58.13,32,27,37,-53,Buy much less,28672
+SKU-0287,Block print Coord Set (Rayon),Coord Set,Sage green,XL,542,1807,87,0.149,Critical,76.59,34,29,39,-53,Buy much less,18428
+SKU-0315,Mirror work Dupatta (Rayon),Dupatta,Ochre,XS,226,462,146,0.603,Healthy,5.16,94,80,108,-52,Buy much less,21244
+SKU-0401,Bandhani Dress (Silk blend),Dress,Indigo,S,603,1156,133,0.489,Healthy,0.0,81,69,93,-52,Buy much less,48843
+SKU-0124,Ikat Saree (Mul mul),Saree,Indigo,M,1980,5919,144,0.153,Healthy,1.69,93,79,107,-51,Buy much less,184140
+SKU-0379,Shibori Dress (Georgette),Dress,Teal,M,607,1294,86,0.198,Critical,79.4,35,30,40,-51,Buy much less,21245
+SKU-0189,Block print Saree (Mul mul),Saree,Ochre,XS,1283,3465,147,0.633,Healthy,0.0,96,82,110,-51,Buy much less,123168
+SKU-0258,Dabu print Coord Set (Silk blend),Coord Set,Ochre,XXL,729,1466,116,0.259,Healthy,1.48,65,55,75,-51,Buy much less,47385
+SKU-0308,Block print Dupatta (Georgette),Dupatta,Teal,L,176,778,117,0.154,Healthy,5.08,66,56,76,-51,Buy much less,11616
+SKU-0108,Kalamkari Kurta (Mul mul),Kurta,Blush pink,XXL,592,1492,113,0.239,Healthy,3.04,62,53,71,-51,Buy much less,36704
+SKU-0450,Block print Dress (Chanderi),Dress,Terracotta,XL,510,1423,145,0.579,Healthy,10.1,94,80,108,-51,Buy much less,47940
+SKU-0318,Block print Dupatta (Cotton),Dupatta,Sage green,XXL,158,847,83,0.289,Critical,49.77,33,28,38,-50,Buy much less,5214
+SKU-0265,Bandhani Coord Set (Mul mul),Coord Set,Teal,S,840,2169,111,0.369,Healthy,2.52,61,52,70,-50,Buy much less,51240
+SKU-0143,Dabu print Saree (Georgette),Saree,Ivory,XL,1534,3022,141,0.156,Healthy,0.0,91,77,105,-50,Buy much less,139594
+SKU-0152,Ajrakh Saree (Mul mul),Saree,Ochre,M,1780,4881,80,0.025,Critical,57.52,30,26,34,-50,Buy much less,53400
+SKU-0270,Block print Coord Set (Mul mul),Coord Set,Ivory,XXL,780,1652,139,0.525,Healthy,0.48,89,76,102,-50,Buy much less,69420
+SKU-0410,Ajrakh Dress (Linen),Dress,Indigo,L,473,1759,82,0.159,Critical,63.92,32,27,37,-50,Buy much less,15136
+SKU-0345,Ajrakh Dupatta (Chanderi),Dupatta,Charcoal,XXL,153,390,98,0.255,Warning,23.84,49,42,56,-49,Buy much less,7497
+SKU-0166,Ajrakh Saree (Cotton),Saree,Terracotta,L,1781,3120,84,0.036,Critical,99.29,35,30,40,-49,Buy much less,62335
+SKU-0013,Bagru print Kurta (Rayon),Kurta,Rust,L,397,1452,115,0.565,Critical,23.92,66,56,76,-49,Buy much less,26202
+SKU-0396,Shibori Dress (Silk blend),Dress,Indigo,XS,494,1506,82,0.159,Critical,64.76,33,28,38,-49,Buy much less,16302
+SKU-0324,Shibori Dupatta (Rayon),Dupatta,Terracotta,XL,239,733,98,0.48,Critical,29.64,50,42,57,-48,Buy much less,11950
+SKU-0162,Kalamkari Saree (Georgette),Saree,Charcoal,M,1049,2590,143,0.161,Healthy,0.0,95,81,109,-48,Buy much less,99655
+SKU-0255,Ikat Coord Set (Chanderi),Coord Set,Ochre,S,687,1701,138,0.21,Healthy,0.79,90,76,103,-48,Buy much less,61830
+SKU-0095,Kalamkari Kurta (Rayon),Kurta,Indigo,L,471,1000,90,0.433,Critical,34.02,43,37,49,-47,Buy much less,20253
+SKU-0104,Ajrakh Kurta (Georgette),Kurta,Sage green,XXL,416,1182,140,0.75,Healthy,4.25,93,79,107,-47,Buy much less,38688
+SKU-0024,Dabu print Kurta (Linen),Kurta,Teal,L,475,1079,104,0.308,Healthy,1.38,57,48,66,-47,Buy much less,27075
+SKU-0039,Chikankari Kurta (Cotton),Kurta,Rust,S,540,1202,135,0.63,Critical,21.09,88,75,101,-47,Buy much less,47520
+SKU-0200,Block print Saree (Rayon),Saree,Indigo,XXL,1383,2594,139,0.612,Healthy,0.39,93,79,107,-46,Buy much less,128619
+SKU-0442,Ajrakh Dress (Cotton),Dress,Mauve,S,573,1719,148,0.811,Healthy,0.0,102,87,117,-46,Buy much less,58446
+SKU-0213,Ikat Coord Set (Rayon),Coord Set,Sage green,L,712,1558,89,0.135,Healthy,7.78,43,37,49,-46,Buy much less,30616
+SKU-0272,Ikat Coord Set (Chanderi),Coord Set,Ochre,XL,524,2502,89,0.348,Healthy,15.65,44,37,51,-45,Buy much less,23056
+SKU-0154,Bagru print Saree (Silk blend),Saree,Ochre,S,1475,3336,140,0.364,Healthy,0.0,95,81,109,-45,Buy much less,140125
+SKU-0286,Block print Coord Set (Georgette),Coord Set,Mauve,XL,842,2255,116,0.371,Healthy,0.63,71,60,82,-45,Buy much less,59782
+SKU-0488,Dabu print Palazzo (Linen),Palazzo,Ochre,XS,282,969,143,0.643,Healthy,0.36,98,83,113,-45,Buy much less,27636
+SKU-0300,Chikankari Coord Set (Mul mul),Coord Set,Charcoal,XL,522,1812,135,0.356,Healthy,0.0,90,76,103,-45,Buy much less,46980
+SKU-0366,Block print Dupatta (Linen),Dupatta,Blush pink,M,260,538,126,0.532,Healthy,0.47,82,70,94,-44,Buy much less,21320
+SKU-0157,Dabu print Saree (Cotton),Saree,Teal,M,2040,3138,143,0.727,Healthy,6.01,99,84,114,-44,Buy much less,201960
+SKU-0183,Kalamkari Saree (Chanderi),Saree,Sage green,M,1162,4804,89,0.348,Warning,29.34,45,38,52,-44,Buy much less,52290
+SKU-0305,Bagru print Dupatta (Silk blend),Dupatta,Mauve,S,194,749,140,0.55,Healthy,0.0,96,82,110,-44,Buy much less,18624
+SKU-0312,Ikat Dupatta (Cotton),Dupatta,Charcoal,L,232,532,74,0.216,Critical,44.69,30,26,34,-44,Buy much less,6960
+SKU-0316,Dabu print Dupatta (Silk blend),Dupatta,Mauve,XL,266,775,113,0.239,Healthy,0.76,69,59,79,-44,Buy much less,18354
+SKU-0037,Block print Kurta (Mul mul),Kurta,Mauve,XXL,384,1141,134,0.455,Healthy,0.55,91,77,105,-43,Buy much less,34944
+SKU-0260,Shibori Coord Set (Georgette),Coord Set,Terracotta,XXL,649,1852,84,0.333,Warning,26.01,41,35,47,-43,Buy much less,26609
+SKU-0076,Shibori Kurta (Chanderi),Kurta,Charcoal,XS,576,1608,146,0.178,Healthy,0.0,103,88,118,-43,Buy much less,59328
+SKU-0193,Bandhani Saree (Cotton),Saree,Blush pink,L,1953,5355,76,0.105,Healthy,3.58,33,28,38,-43,Buy much less,64449
+SKU-0464,Shibori Palazzo (Silk blend),Palazzo,Mauve,XL,216,985,142,0.662,Healthy,2.03,100,85,115,-42,Buy much less,21600
+SKU-0256,Ikat Coord Set (Silk blend),Coord Set,Charcoal,XS,535,2143,70,0.157,Warning,37.09,28,24,32,-42,Buy much less,14980
+SKU-0429,Kalamkari Dress (Mul mul),Dress,Teal,L,474,1618,102,0.343,Healthy,6.57,60,51,69,-42,Buy much less,28440
+SKU-0246,Chikankari Coord Set (Linen),Coord Set,Ivory,L,535,2507,74,0.162,Critical,63.69,32,27,37,-42,Buy much less,17120
+SKU-0357,Mirror work Dupatta (Cotton),Dupatta,Blush pink,XL,224,474,77,0.104,Critical,82.43,35,30,40,-42,Buy much less,7840
+SKU-0433,Shibori Dress (Cotton),Dress,Terracotta,L,562,1639,135,0.252,Healthy,0.0,93,79,107,-42,Buy much less,52266
+SKU-0388,Mirror work Dress (Rayon),Dress,Teal,M,724,1773,71,0.31,Critical,37.26,30,26,34,-41,Buy much less,21720
+SKU-0230,Ajrakh Coord Set (Chanderi),Coord Set,Ivory,S,618,2641,76,0.105,Critical,114.56,35,30,40,-41,Buy much less,21630
+SKU-0128,Dabu print Saree (Cotton),Saree,Ochre,M,1808,2803,70,0.043,Critical,42.11,29,25,33,-41,Buy much less,52432
+SKU-0413,Bagru print Dress (Chanderi),Dress,Blush pink,XS,573,1393,98,0.449,Healthy,6.61,57,48,66,-41,Buy much less,32661
+SKU-0164,Bandhani Saree (Mul mul),Saree,Indigo,M,2096,3382,72,0.458,Critical,30.35,31,26,36,-41,Buy much less,64976
+SKU-0445,Ajrakh Dress (Georgette),Dress,Blush pink,M,520,1270,130,0.723,Healthy,4.99,90,76,103,-40,Buy much less,46800
+SKU-0321,Shibori Dupatta (Rayon),Dupatta,Ochre,L,199,749,74,0.0,Critical,119.0,34,29,39,-40,Buy much less,6766
+SKU-0376,Chikankari Dress (Rayon),Dress,Terracotta,XL,687,1518,91,0.341,Warning,17.13,51,43,59,-40,Buy much less,35037
+SKU-0419,Shibori Dress (Silk blend),Dress,Indigo,XXL,723,1970,137,0.321,Healthy,0.0,97,82,112,-40,Buy much less,70131
+SKU-0027,Bandhani Kurta (Georgette),Kurta,Rust,L,601,1352,81,0.383,Warning,19.13,41,35,47,-40,Buy much less,24641
+SKU-0414,Shibori Dress (Cotton),Dress,Rust,XS,739,1767,73,0.137,Critical,59.55,34,29,39,-39,Buy much less,25126
+SKU-0065,Ikat Kurta (Silk blend),Kurta,Terracotta,XL,425,1214,128,0.219,Healthy,0.78,89,76,102,-39,Buy much less,37825
+SKU-0381,Bandhani Dress (Rayon),Dress,Terracotta,L,740,1658,121,0.62,Critical,19.76,82,70,94,-39,Buy much less,60680
+SKU-0327,Bagru print Dupatta (Rayon),Dupatta,Indigo,L,205,638,72,0.0,Critical,94.0,34,29,39,-38,Buy much less,6970
+SKU-0471,Kalamkari Palazzo (Cotton),Palazzo,Mauve,M,320,717,133,0.579,Healthy,10.1,95,81,109,-38,Buy much less,30400
+SKU-0132,Ajrakh Saree (Silk blend),Saree,Indigo,M,874,2585,72,0.347,Critical,47.02,34,29,39,-38,Buy much less,29716
+SKU-0490,Dabu print Palazzo (Silk blend),Palazzo,Blush pink,L,322,622,72,0.264,Critical,60.35,34,29,39,-38,Buy much less,10948
+SKU-0393,Mirror work Dress (Silk blend),Dress,Teal,L,686,1345,110,0.545,Critical,32.3,72,61,83,-38,Buy much less,49392
+SKU-0163,Ikat Saree (Georgette),Saree,Rust,S,1626,3700,132,0.712,Healthy,0.29,94,80,108,-38,Buy much less,152844
+SKU-0116,Block print Kurta (Linen),Kurta,Blush pink,M,486,1537,130,0.369,Healthy,0.63,93,79,107,-37,Buy much less,45198
+SKU-0179,Bagru print Saree (Silk blend),Saree,Mauve,S,1947,3174,99,0.222,Healthy,0.78,62,53,71,-37,Buy much less,120714
+SKU-0348,Kalamkari Dupatta (Silk blend),Dupatta,Charcoal,XL,272,652,75,0.227,Healthy,13.14,39,33,45,-36,Buy much less,10608
+SKU-0454,Chikankari Palazzo (Chanderi),Palazzo,Sage green,S,348,1011,138,0.833,Warning,4.68,102,87,117,-36,Buy much less,35496
+SKU-0278,Chikankari Coord Set (Chanderi),Coord Set,Mauve,XXL,728,1997,108,0.593,Warning,16.28,72,61,83,-36,Buy much less,52416
+SKU-0385,Kalamkari Dress (Linen),Dress,Terracotta,XL,725,1361,66,0.136,Warning,31.1,30,26,34,-36,Buy much less,21750
+SKU-0235,Bandhani Coord Set (Rayon),Coord Set,Ivory,XXL,518,1796,100,0.18,Healthy,0.82,64,54,74,-36,Buy much less,33152
+SKU-0400,Kalamkari Dress (Mul mul),Dress,Indigo,XS,742,2005,64,0.109,Warning,26.73,29,25,33,-35,Buy much less,21518
+SKU-0244,Shibori Coord Set (Linen),Coord Set,Teal,L,576,2043,68,0.103,Critical,66.38,33,28,38,-35,Buy much less,19008
+SKU-0494,Dabu print Palazzo (Linen),Palazzo,Ivory,M,262,1053,80,0.588,Warning,18.54,45,38,52,-35,Buy much less,11790
+SKU-0007,Mirror work Kurta (Linen),Kurta,Terracotta,L,399,1337,122,0.082,Healthy,0.92,87,74,100,-35,Buy much less,34713
+SKU-0332,Bagru print Dupatta (Rayon),Dupatta,Ochre,L,235,563,69,0.116,Critical,103.43,34,29,39,-35,Buy much less,7990
+SKU-0053,Kalamkari Kurta (Georgette),Kurta,Ivory,XXL,435,1646,98,0.214,Healthy,1.57,63,54,72,-35,Buy much less,27405
+SKU-0273,Bandhani Coord Set (Rayon),Coord Set,Rust,S,650,1866,118,0.475,Healthy,1.05,84,71,97,-34,Buy much less,54600
+SKU-0466,Mirror work Palazzo (Cotton),Palazzo,Teal,S,295,972,86,0.43,Critical,37.62,52,44,60,-34,Buy much less,15340
+SKU-0112,Kalamkari Kurta (Linen),Kurta,Sage green,XL,491,1269,62,0.048,Critical,48.55,28,24,32,-34,Buy much less,13748
+SKU-0395,Mirror work Dress (Georgette),Dress,Teal,S,573,1719,131,0.588,Healthy,0.0,97,82,112,-34,Buy much less,55581
+SKU-0452,Kalamkari Palazzo (Silk blend),Palazzo,Blush pink,M,221,903,128,0.586,Healthy,7.04,95,81,109,-33,Buy much less,20995
+SKU-0025,Mirror work Kurta (Rayon),Kurta,Sage green,S,533,1072,115,0.557,Critical,27.91,82,70,94,-33,Buy much less,43706
+SKU-0420,Ikat Dress (Georgette),Dress,Indigo,XS,432,1309,67,0.075,Critical,83.25,35,30,40,-32,Buy much less,15120
+SKU-0073,Bagru print Kurta (Rayon),Kurta,Charcoal,XS,475,1007,106,0.604,Critical,26.53,74,63,85,-32,Buy much less,35150
+SKU-0322,Dabu print Dupatta (Silk blend),Dupatta,Charcoal,XL,226,433,79,0.418,Warning,16.3,47,40,54,-32,Buy much less,10622
+SKU-0192,Block print Saree (Silk blend),Saree,Charcoal,XL,1537,5556,61,0.016,Healthy,16.73,29,25,33,-32,Buy much less,44573
+SKU-0368,Block print Dupatta (Cotton),Dupatta,Ivory,XL,128,693,88,0.25,Healthy,1.5,56,48,64,-32,Buy much less,7168
+SKU-0140,Shibori Saree (Georgette),Saree,Rust,M,2172,5279,83,0.349,Warning,18.88,51,43,59,-32,Buy much less,110772
+SKU-0184,Shibori Saree (Silk blend),Saree,Teal,S,806,2756,61,0.098,Critical,43.3,29,25,33,-32,Buy much less,23374
+SKU-0493,Chikankari Palazzo (Chanderi),Palazzo,Indigo,XXL,274,1077,65,0.0,Critical,95.0,34,29,39,-31,Buy much less,9316
+SKU-0444,Mirror work Dress (Mul mul),Dress,Charcoal,XL,606,1853,65,0.0,Critical,99.0,34,29,39,-31,Buy much less,20604
+SKU-0495,Shibori Palazzo (Georgette),Palazzo,Ivory,L,272,1058,83,0.47,Critical,38.69,52,44,60,-31,Buy much less,14144
+SKU-0290,Shibori Coord Set (Chanderi),Coord Set,Indigo,M,635,1759,65,0.062,Critical,116.31,34,29,39,-31,Buy much less,21590
+SKU-0459,Ikat Palazzo (Silk blend),Palazzo,Rust,XXL,302,634,121,0.686,Healthy,0.31,90,76,103,-31,Buy much less,27180
+SKU-0298,Kalamkari Coord Set (Georgette),Coord Set,Sage green,M,847,2169,124,0.371,Healthy,0.0,93,79,107,-31,Buy much less,78771
+SKU-0432,Bagru print Dress (Cotton),Dress,Teal,XL,637,1615,125,0.76,Healthy,3.6,95,81,109,-30,Buy much less,60515
+SKU-0062,Chikankari Kurta (Linen),Kurta,Mauve,L,385,1045,84,0.56,Critical,28.6,54,46,62,-30,Buy much less,20790
+SKU-0242,Mirror work Coord Set (Silk blend),Coord Set,Indigo,XXL,823,2188,141,0.837,Warning,5.38,111,94,128,-30,Buy much less,91353
+SKU-0031,Bagru print Kurta (Linen),Kurta,Blush pink,XS,557,1080,145,0.855,Critical,7.83,115,98,132,-30,Buy much less,64055
+SKU-0288,Ikat Coord Set (Georgette),Coord Set,Rust,M,865,2651,136,0.64,Critical,20.16,106,90,122,-30,Buy much less,91690
+SKU-0263,Ajrakh Coord Set (Georgette),Coord Set,Ivory,XL,648,2507,145,0.724,Critical,16.84,115,98,132,-30,Buy much less,74520
+SKU-0096,Block print Kurta (Rayon),Kurta,Charcoal,L,371,1354,75,0.44,Healthy,9.52,45,38,52,-30,Buy much less,16695
+SKU-0310,Bandhani Dupatta (Cotton),Dupatta,Rust,XXL,277,431,138,0.812,Warning,6.96,108,92,124,-30,Buy much less,29916
+SKU-0158,Ajrakh Saree (Mul mul),Saree,Rust,XL,2052,6403,90,0.622,Healthy,8.69,61,52,70,-29,Buy much less,125172
+SKU-0382,Block print Dress (Linen),Dress,Mauve,S,545,1494,85,0.353,Healthy,1.94,56,48,64,-29,Buy much less,30520
+SKU-0071,Ikat Kurta (Linen),Kurta,Rust,XL,566,1250,68,0.691,Healthy,7.11,40,34,46,-28,Buy much less,22640
+SKU-0203,Ajrakh Coord Set (Mul mul),Coord Set,Ivory,S,591,2072,62,0.242,Critical,77.32,34,29,39,-28,Buy much less,20094
+SKU-0209,Shibori Coord Set (Rayon),Coord Set,Rust,S,511,1486,84,0.143,Healthy,1.71,56,48,64,-28,Buy much less,28616
+SKU-0178,Bagru print Saree (Cotton),Saree,Mauve,M,1720,3555,117,0.222,Healthy,0.78,89,76,102,-28,Buy much less,153080
+SKU-0423,Bandhani Dress (Rayon),Dress,Charcoal,XS,484,1455,83,0.169,Healthy,1.66,55,47,63,-28,Buy much less,26620
+SKU-0210,Chikankari Coord Set (Rayon),Coord Set,Teal,M,737,2779,99,0.727,Warning,11.47,72,61,83,-27,Buy much less,53064
+SKU-0461,Bandhani Palazzo (Linen),Palazzo,Charcoal,XXL,300,1086,129,0.884,Healthy,0.12,102,87,117,-27,Buy much less,30600
+SKU-0425,Bandhani Dress (Georgette),Dress,Ochre,XS,557,1774,145,0.738,Critical,13.62,118,100,136,-27,Buy much less,65726
+SKU-0214,Shibori Coord Set (Mul mul),Coord Set,Terracotta,XL,651,2346,129,0.829,Healthy,1.88,102,87,117,-27,Buy much less,66402
+SKU-0431,Shibori Dress (Rayon),Dress,Indigo,S,551,1715,73,0.562,Critical,28.91,46,39,53,-27,Buy much less,25346
+SKU-0434,Bandhani Dress (Silk blend),Dress,Mauve,L,445,2148,78,0.615,Critical,23.1,51,43,59,-27,Buy much less,22695
+SKU-0377,Chikankari Dress (Cotton),Dress,Ochre,L,468,1322,83,0.602,Critical,29.85,56,48,64,-27,Buy much less,26208
+SKU-0199,Mirror work Saree (Linen),Saree,Mauve,XL,1320,3216,117,0.701,Healthy,2.39,91,77,105,-26,Buy much less,120120
+SKU-0262,Kalamkari Coord Set (Mul mul),Coord Set,Blush pink,L,614,2527,59,0.305,Critical,52.82,33,28,38,-26,Buy much less,20262
+SKU-0237,Mirror work Coord Set (Chanderi),Coord Set,Rust,XXL,592,1704,95,0.284,Healthy,0.0,69,59,79,-26,Buy much less,40848
+SKU-0105,Dabu print Kurta (Cotton),Kurta,Mauve,XXL,613,1318,55,0.345,Warning,25.54,29,25,33,-26,Buy much less,17777
+SKU-0043,Shibori Kurta (Mul mul),Kurta,Sage green,XS,362,1777,139,0.683,Warning,15.53,113,96,130,-26,Buy much less,40906
+SKU-0150,Dabu print Saree (Linen),Saree,Mauve,M,1976,3822,60,0.15,Critical,86.7,35,30,40,-25,Buy much less,69160
+SKU-0151,Shibori Saree (Rayon),Saree,Teal,S,1445,6463,55,0.309,Critical,38.7,30,26,34,-25,Buy much less,43350
+SKU-0443,Ikat Dress (Georgette),Dress,Ivory,M,427,1461,110,0.209,Healthy,0.0,85,72,98,-25,Buy much less,36295
+SKU-0171,Dabu print Saree (Rayon),Saree,Mauve,M,1384,3163,68,0.544,Critical,28.73,43,37,49,-25,Buy much less,59512
+SKU-0408,Kalamkari Dress (Silk blend),Dress,Mauve,M,577,1536,54,0.019,Warning,25.51,29,25,33,-25,Buy much less,16733
+SKU-0285,Bagru print Coord Set (Silk blend),Coord Set,Ochre,XS,783,2114,89,0.27,Healthy,2.19,64,54,74,-25,Buy much less,50112
+SKU-0359,Block print Dupatta (Chanderi),Dupatta,Blush pink,XS,256,673,74,0.243,Healthy,0.76,49,42,56,-25,Buy much less,12544
+SKU-0456,Bagru print Palazzo (Georgette),Palazzo,Sage green,S,364,916,53,0.075,Healthy,15.73,28,24,32,-25,Buy much less,10192
+SKU-0250,Ajrakh Coord Set (Silk blend),Coord Set,Sage green,S,518,2483,84,0.548,Warning,14.92,60,51,69,-24,Buy much less,31080
+SKU-0294,Dabu print Coord Set (Cotton),Coord Set,Indigo,XXL,682,1887,59,0.305,Warning,25.02,35,30,40,-24,Buy much less,23870
+SKU-0387,Ikat Dress (Cotton),Dress,Ochre,L,704,1176,66,0.318,Warning,23.87,43,37,49,-23,Buy much less,30272
+SKU-0172,Ajrakh Saree (Cotton),Saree,Teal,L,2142,5615,88,0.136,Healthy,1.73,65,55,75,-23,Buy much less,139230
+SKU-0457,Chikankari Palazzo (Rayon),Palazzo,Mauve,XXL,203,839,91,0.593,Warning,16.69,68,58,78,-23,Buy much less,13804
+SKU-0227,Shibori Coord Set (Georgette),Coord Set,Blush pink,M,625,1616,52,0.058,Warning,37.68,29,25,33,-23,Buy much less,18125
+SKU-0344,Dabu print Dupatta (Rayon),Dupatta,Blush pink,S,195,825,114,0.439,Healthy,0.0,91,77,105,-23,Buy much less,17745
+SKU-0240,Mirror work Coord Set (Linen),Coord Set,Indigo,L,542,2343,52,0.135,Critical,45.84,29,25,33,-23,Buy much less,15718
+SKU-0301,Kalamkari Dupatta (Silk blend),Dupatta,Ivory,L,263,421,128,0.828,Warning,8.08,106,90,122,-22,Buy much less,27878
+SKU-0167,Chikankari Saree (Rayon),Saree,Indigo,M,1538,5441,75,0.253,Healthy,1.49,53,45,61,-22,Buy much less,81514
+SKU-0045,Mirror work Kurta (Chanderi),Kurta,Terracotta,XXL,535,1524,81,0.815,Healthy,4.26,59,50,68,-22,Buy much less,31565
+SKU-0261,Bagru print Coord Set (Mul mul),Coord Set,Rust,XXL,899,2435,121,0.669,Critical,27.14,99,84,114,-22,Buy much less,89001
+SKU-0035,Mirror work Kurta (Linen),Kurta,Rust,XXL,371,1699,56,0.464,Critical,49.31,34,29,39,-22,Buy much less,12614
+SKU-0126,Dabu print Saree (Rayon),Saree,Blush pink,XXL,822,3014,118,0.669,Healthy,1.66,96,82,110,-22,Buy much less,78912
+SKU-0238,Dabu print Coord Set (Chanderi),Coord Set,Ochre,L,764,2426,122,0.73,Healthy,1.08,100,85,115,-22,Buy much less,76400
+SKU-0205,Ajrakh Coord Set (Chanderi),Coord Set,Teal,L,589,1521,133,0.767,Critical,14.45,111,94,128,-22,Buy much less,65379
+SKU-0391,Dabu print Dress (Silk blend),Dress,Mauve,XL,671,1203,57,0.281,Critical,70.46,35,30,40,-22,Buy much less,23485
+SKU-0138,Bandhani Saree (Georgette),Saree,Sage green,XS,1936,4361,58,0.569,Critical,43.96,37,31,43,-21,Buy much less,71632
+SKU-0499,Mirror work Palazzo (Rayon),Palazzo,Mauve,XS,320,934,121,0.86,Healthy,1.96,100,85,115,-21,Buy much less,32000
+SKU-0111,Ikat Kurta (Cotton),Kurta,Sage green,XS,467,1785,119,0.176,Healthy,0.82,98,83,113,-21,Buy much less,45766
+SKU-0284,Block print Coord Set (Chanderi),Coord Set,Indigo,S,629,1971,50,0.18,Warning,27.06,29,25,33,-21,Buy much less,18241
+SKU-0181,Bandhani Saree (Chanderi),Saree,Rust,S,1023,2517,120,0.65,Warning,9.8,99,84,114,-21,Buy much less,101277
+SKU-0114,Kalamkari Kurta (Cotton),Kurta,Ivory,XS,433,1270,67,0.403,Warning,20.9,46,39,53,-21,Buy much less,19918
+SKU-0131,Kalamkari Saree (Chanderi),Saree,Charcoal,M,1960,5707,54,0.0,Critical,70.0,33,28,38,-21,Buy much less,64680
+SKU-0274,Ajrakh Coord Set (Rayon),Coord Set,Blush pink,XS,629,1781,112,0.196,Healthy,1.61,92,78,106,-20,Buy much less,57868
+SKU-0020,Shibori Kurta (Linen),Kurta,Mauve,XS,547,1405,135,0.733,Critical,16.82,115,98,132,-20,Buy much less,62905
+SKU-0383,Ikat Dress (Cotton),Dress,Indigo,XL,623,1932,117,0.376,Healthy,0.62,97,82,112,-20,Buy much less,60431
+SKU-0363,Block print Dupatta (Georgette),Dupatta,Ochre,XXL,210,788,54,0.037,Critical,113.63,34,29,39,-20,Buy much less,7140
+SKU-0197,Ikat Saree (Georgette),Saree,Rust,XL,1390,3250,53,0.264,Warning,24.29,33,28,38,-20,Buy much less,45870
+SKU-0289,Mirror work Coord Set (Chanderi),Coord Set,Ochre,L,760,2172,124,0.597,Warning,14.91,104,88,120,-20,Buy much less,79040
+SKU-0102,Dabu print Kurta (Georgette),Kurta,Charcoal,XS,541,1580,115,0.374,Healthy,0.0,96,82,110,-19,Buy less,51936
+SKU-0328,Ajrakh Dupatta (Linen),Dupatta,Ochre,S,205,526,103,0.301,Healthy,0.0,84,71,97,-19,Buy less,17220
+SKU-0330,Chikankari Dupatta (Linen),Dupatta,Blush pink,XXL,231,784,128,0.727,Warning,11.74,109,93,125,-19,Buy less,25179
+SKU-0353,Shibori Dupatta (Mul mul),Dupatta,Sage green,XL,250,775,107,0.318,Healthy,1.36,89,76,102,-18,Buy less,22250
+SKU-0136,Bagru print Saree (Silk blend),Saree,Ivory,XL,1964,3189,48,0.104,Critical,45.7,30,26,34,-18,Buy less,58920
+SKU-0002,Bagru print Kurta (Silk blend),Kurta,Ochre,XL,437,1322,117,0.658,Warning,12.65,99,84,114,-18,Buy less,43263
+SKU-0378,Chikankari Dress (Cotton),Dress,Mauve,XXL,526,1519,59,0.593,Warning,16.28,41,35,47,-18,Buy less,21566
+SKU-0188,Kalamkari Saree (Rayon),Saree,Ochre,L,1793,6102,125,0.736,Critical,22.7,107,91,123,-18,Buy less,191851
+SKU-0394,Dabu print Dress (Mul mul),Dress,Ochre,XS,603,2143,48,0.25,Warning,20.25,30,26,34,-18,Buy less,18090
+SKU-0448,Kalamkari Dress (Linen),Dress,Rust,M,742,2079,132,0.788,Critical,12.72,114,97,131,-18,Buy less,84588
+SKU-0093,Bandhani Kurta (Georgette),Kurta,Charcoal,M,402,1399,45,0.289,Critical,36.97,28,24,32,-17,Buy less,11256
+SKU-0001,Bagru print Kurta (Rayon),Kurta,Mauve,S,452,1385,116,0.767,Warning,6.06,99,84,114,-17,Buy less,44748
+SKU-0482,Dabu print Palazzo (Silk blend),Palazzo,Teal,M,201,715,49,0.163,Healthy,17.58,32,27,37,-17,Buy less,6432
+SKU-0084,Kalamkari Kurta (Rayon),Kurta,Mauve,S,482,1720,112,0.339,Healthy,0.0,95,81,109,-17,Buy less,45790
+SKU-0195,Ajrakh Saree (Rayon),Saree,Rust,XS,1369,6163,53,0.604,Critical,36.04,36,31,41,-17,Buy less,49284
+SKU-0407,Chikankari Dress (Rayon),Dress,Teal,XS,539,2150,134,0.627,Critical,24.24,118,100,136,-16,Buy less,63602
+SKU-0397,Bandhani Dress (Georgette),Dress,Sage green,XL,638,1181,77,0.61,Warning,9.75,61,52,70,-16,Buy less,38918
+SKU-0016,Chikankari Kurta (Rayon),Kurta,Sage green,XL,571,1434,88,0.705,Critical,22.72,72,61,83,-16,Buy less,41112
+SKU-0082,Kalamkari Kurta (Chanderi),Kurta,Charcoal,XXL,495,1173,106,0.198,Healthy,1.6,90,76,103,-16,Buy less,44550
+SKU-0303,Shibori Dupatta (Mul mul),Dupatta,Sage green,XXL,274,415,119,0.832,Warning,5.04,103,88,118,-16,Buy less,28222
+SKU-0412,Shibori Dress (Mul mul),Dress,Ivory,XS,667,1453,122,0.607,Critical,28.69,106,90,122,-16,Buy less,70702
+SKU-0101,Ajrakh Kurta (Chanderi),Kurta,Ochre,M,460,1699,44,0.341,Critical,32.95,28,24,32,-16,Buy less,12880
+SKU-0165,Chikankari Saree (Georgette),Saree,Blush pink,XS,1735,6478,122,0.639,Warning,14.8,106,90,122,-16,Buy less,183910
+SKU-0269,Ajrakh Coord Set (Linen),Coord Set,Sage green,S,846,1529,54,0.648,Critical,32.74,38,32,44,-16,Buy less,32148
+SKU-0070,Bagru print Kurta (Rayon),Kurta,Ivory,XXL,514,1371,46,0.13,Critical,54.81,30,26,34,-16,Buy less,15420
+SKU-0329,Mirror work Dupatta (Cotton),Dupatta,Indigo,S,204,354,45,0.044,Healthy,6.69,29,25,33,-16,Buy less,5916
+SKU-0086,Bagru print Kurta (Georgette),Kurta,Terracotta,S,637,983,83,0.663,Warning,12.13,68,58,78,-15,Buy less,43316
+SKU-0208,Bandhani Coord Set (Georgette),Coord Set,Charcoal,L,521,1809,43,0.465,Warning,23.54,28,24,32,-15,Buy less,14588
+SKU-0161,Chikankari Saree (Cotton),Saree,Teal,S,846,5559,115,0.191,Healthy,0.81,101,86,116,-14,Buy less,85446
+SKU-0241,Kalamkari Coord Set (Mul mul),Coord Set,Charcoal,L,606,2414,44,0.432,Warning,19.31,30,26,34,-14,Buy less,18180
+SKU-0048,Ajrakh Kurta (Mul mul),Kurta,Terracotta,XXL,396,1772,46,0.304,Warning,27.14,32,27,37,-14,Buy less,12672
+SKU-0480,Ajrakh Palazzo (Linen),Palazzo,Terracotta,XL,261,751,98,0.316,Healthy,1.37,84,71,97,-14,Buy less,21924
+SKU-0123,Ikat Saree (Rayon),Saree,Blush pink,L,1941,5053,44,0.477,Critical,30.86,30,26,34,-14,Buy less,58230
+SKU-0277,Kalamkari Coord Set (Mul mul),Coord Set,Rust,M,623,1821,43,0.186,Warning,30.12,29,25,33,-14,Buy less,18067
+SKU-0202,Block print Coord Set (Mul mul),Coord Set,Charcoal,XXL,713,2511,115,0.47,Healthy,0.0,101,86,116,-14,Buy less,72013
+SKU-0496,Ajrakh Palazzo (Rayon),Palazzo,Terracotta,M,236,736,69,0.696,Warning,9.73,56,48,64,-13,Buy less,13216
+SKU-0276,Chikankari Coord Set (Mul mul),Coord Set,Sage green,XL,759,2184,65,0.585,Critical,26.56,52,44,60,-13,Buy less,39468
+SKU-0033,Bandhani Kurta (Rayon),Kurta,Charcoal,L,502,1287,97,0.66,Healthy,2.72,84,71,97,-13,Buy less,42168
+SKU-0134,Dabu print Saree (Mul mul),Saree,Indigo,XL,1984,6358,100,0.73,Critical,15.39,87,74,100,-13,Buy less,172608
+SKU-0075,Kalamkari Kurta (Linen),Kurta,Mauve,M,393,1634,65,0.769,Critical,14.09,53,45,61,-12,Buy less,20829
+SKU-0292,Kalamkari Coord Set (Mul mul),Coord Set,Blush pink,S,754,1769,42,0.095,Healthy,6.34,30,26,34,-12,Buy less,22620
+SKU-0428,Kalamkari Dress (Linen),Dress,Teal,XL,594,1844,62,0.726,Critical,26.03,50,42,57,-12,Buy less,29700
+SKU-0336,Ikat Dupatta (Rayon),Dupatta,Mauve,XS,271,825,111,0.45,Healthy,0.55,99,84,114,-12,Buy less,26829
+SKU-0362,Ikat Dupatta (Linen),Dupatta,Rust,XXL,174,804,117,0.607,Warning,12.58,105,89,121,-12,Buy less,18270
+SKU-0198,Shibori Saree (Linen),Saree,Teal,XS,1177,5146,129,0.822,Critical,13.17,118,100,136,-11,Buy less,138886
+SKU-0268,Chikankari Coord Set (Mul mul),Coord Set,Charcoal,XL,715,1533,95,0.853,Healthy,0.15,84,71,97,-11,Buy less,60060
+SKU-0057,Block print Kurta (Cotton),Kurta,Rust,M,527,1624,41,0.561,Critical,28.54,30,26,34,-11,Buy less,15810
+SKU-0142,Ikat Saree (Mul mul),Saree,Mauve,XXL,1911,3511,43,0.558,Critical,27.85,32,27,37,-11,Buy less,61152
+SKU-0455,Chikankari Palazzo (Linen),Palazzo,Charcoal,M,335,917,44,0.386,Critical,54.03,33,28,38,-11,Buy less,11055
+SKU-0231,Shibori Coord Set (Linen),Coord Set,Sage green,XS,731,1987,48,0.438,Warning,25.85,37,31,43,-11,Buy less,27047
+SKU-0182,Bagru print Saree (Mul mul),Saree,Ivory,M,2112,3485,42,0.357,Critical,41.15,31,26,36,-11,Buy less,65472
+SKU-0110,Bagru print Kurta (Chanderi),Kurta,Rust,XL,411,1390,99,0.545,Healthy,10.46,88,75,101,-11,Buy less,36168
+SKU-0156,Ajrakh Saree (Rayon),Saree,Charcoal,XS,1164,2681,46,0.87,Warning,6.11,35,30,40,-11,Buy less,40740
+SKU-0032,Mirror work Kurta (Mul mul),Kurta,Rust,XXL,424,1574,128,0.82,Critical,16.2,117,99,135,-11,Buy less,49608
+SKU-0281,Ikat Coord Set (Georgette),Coord Set,Mauve,S,687,1794,63,0.841,Critical,8.75,53,45,61,-10,Buy less,36411
+SKU-0041,Dabu print Kurta (Cotton),Kurta,Blush pink,XS,476,1104,72,0.667,Critical,26.97,62,53,71,-10,Buy less,29512
+SKU-0486,Mirror work Palazzo (Silk blend),Palazzo,Mauve,M,252,628,51,0.392,Warning,16.42,41,35,47,-10,Buy less,10332
+SKU-0224,Ajrakh Coord Set (Linen),Coord Set,Indigo,XS,750,2356,49,0.673,Critical,26.81,39,33,45,-10,Buy less,29250
+SKU-0468,Chikankari Palazzo (Cotton),Palazzo,Ivory,M,280,625,44,0.136,Critical,71.71,34,29,39,-10,Buy less,9520
+SKU-0271,Shibori Coord Set (Rayon),Coord Set,Mauve,S,880,2298,50,0.7,Critical,17.7,40,34,46,-10,Buy less,35200
+SKU-0403,Kalamkari Dress (Mul mul),Dress,Charcoal,XS,456,1240,64,0.688,Critical,21.53,54,46,62,-10,Buy less,24624
+SKU-0282,Bagru print Coord Set (Silk blend),Coord Set,Charcoal,XL,551,2023,58,0.534,Critical,27.03,49,42,56,-9,Buy less,26999
+SKU-0077,Chikankari Kurta (Cotton),Kurta,Terracotta,XXL,403,1208,57,0.684,Critical,25.6,48,41,55,-9,Buy less,19344
+SKU-0080,Bandhani Kurta (Rayon),Kurta,Ochre,S,561,1410,98,0.837,Critical,9.62,89,76,102,-9,Buy less,49929
+SKU-0190,Ajrakh Saree (Chanderi),Saree,Sage green,M,1504,2221,81,0.605,Critical,22.91,72,61,83,-9,Buy less,108288
+SKU-0398,Block print Dress (Cotton),Dress,Ivory,M,748,1215,96,0.583,Warning,12.93,87,74,100,-9,Buy less,65076
+SKU-0473,Bagru print Palazzo (Linen),Palazzo,Rust,XS,371,700,101,0.109,Healthy,0.89,93,79,107,-8,Buy less,34503
+SKU-0409,Chikankari Dress (Georgette),Dress,Terracotta,S,633,1130,101,0.733,Warning,6.94,93,79,107,-8,Buy less,58869
+SKU-0257,Ajrakh Coord Set (Mul mul),Coord Set,Mauve,L,695,1960,37,0.135,Warning,37.2,29,25,33,-8,Buy less,20155
+SKU-0044,Ajrakh Kurta (Chanderi),Kurta,Teal,XXL,491,1420,54,0.648,Critical,29.57,46,39,53,-8,Buy less,22586
+SKU-0497,Kalamkari Palazzo (Georgette),Palazzo,Indigo,S,363,801,40,0.375,Critical,42.5,32,27,37,-8,Buy less,11616
+SKU-0217,Dabu print Coord Set (Mul mul),Coord Set,Indigo,XL,781,1499,67,0.687,Warning,9.39,60,51,69,-7,Buy less,46860
+SKU-0297,Chikankari Coord Set (Mul mul),Coord Set,Ochre,XXL,801,2783,51,0.647,Critical,24.36,44,37,51,-7,Buy less,35244
+SKU-0068,Dabu print Kurta (Mul mul),Kurta,Ivory,XL,425,958,36,0.361,Warning,20.45,29,25,33,-7,Buy less,12325
+SKU-0005,Chikankari Kurta (Chanderi),Kurta,Sage green,XS,484,970,38,0.395,Critical,33.28,31,26,36,-7,Buy less,15004
+SKU-0153,Dabu print Saree (Rayon),Saree,Mauve,M,1492,5563,40,0.15,Critical,70.55,34,29,39,-6,Buy less,50728
+SKU-0069,Ajrakh Kurta (Silk blend),Kurta,Terracotta,S,523,1602,58,0.793,Critical,12.21,52,44,60,-6,Buy less,27196
+SKU-0302,Shibori Dupatta (Chanderi),Dupatta,Mauve,XXL,183,711,120,0.558,Critical,24.31,114,97,131,-6,Buy less,20862
+SKU-0259,Block print Coord Set (Silk blend),Coord Set,Indigo,XXL,671,2169,37,0.649,Critical,19.66,31,26,36,-6,Buy less,20801
+SKU-0168,Kalamkari Saree (Mul mul),Saree,Charcoal,L,828,4232,39,0.462,Warning,21.52,34,29,39,-5,Buy less,28152
+SKU-0364,Mirror work Dupatta (Chanderi),Dupatta,Blush pink,M,264,410,94,0.213,Healthy,0.79,89,76,102,-5,Buy less,23496
+SKU-0323,Ajrakh Dupatta (Silk blend),Dupatta,Sage green,XL,126,419,55,0.727,Critical,15.29,50,42,57,-5,Buy less,6300
+SKU-0091,Bandhani Kurta (Cotton),Kurta,Mauve,XL,379,1708,39,0.59,Critical,30.34,34,29,39,-5,Buy less,12886
+SKU-0386,Bandhani Dress (Georgette),Dress,Ochre,L,589,1223,102,0.833,Warning,5.68,97,82,112,-5,Buy less,57133
+SKU-0248,Dabu print Coord Set (Chanderi),Coord Set,Charcoal,XL,892,2449,101,0.277,Healthy,0.0,96,82,110,-5,Buy less,85632
+SKU-0125,Kalamkari Saree (Mul mul),Saree,Terracotta,XXL,2115,2993,101,0.545,Healthy,0.46,96,82,110,-5,Buy less,203040
+SKU-0026,Shibori Kurta (Mul mul),Kurta,Ochre,XL,589,1093,49,0.673,Warning,15.04,44,37,51,-5,Buy less,25916
+SKU-0478,Mirror work Palazzo (Georgette),Palazzo,Teal,XXL,232,690,48,0.562,Critical,23.65,44,37,51,-4,Same,10208
+SKU-0361,Bandhani Dupatta (Linen),Dupatta,Sage green,XS,212,755,33,0.061,Healthy,15.02,29,25,33,-4,Same,6148
+SKU-0430,Block print Dress (Georgette),Dress,Charcoal,XL,579,1430,88,0.148,Healthy,0.85,84,71,97,-4,Same,48636
+SKU-0460,Shibori Palazzo (Rayon),Palazzo,Teal,S,275,587,59,0.814,Critical,13.21,55,47,63,-4,Same,15125
+SKU-0479,Bagru print Palazzo (Chanderi),Palazzo,Terracotta,XS,327,1026,37,0.108,Critical,71.36,33,28,38,-4,Same,10791
+SKU-0355,Shibori Dupatta (Cotton),Dupatta,Blush pink,L,180,513,43,0.326,Healthy,6.74,39,33,45,-4,Same,7020
+SKU-0267,Dabu print Coord Set (Linen),Coord Set,Indigo,XL,511,2662,59,0.441,Healthy,8.94,56,48,64,-3,Same,28616
+SKU-0010,Shibori Kurta (Rayon),Kurta,Ivory,XS,566,1713,38,0.711,Critical,20.52,35,30,40,-3,Same,19810
+SKU-0254,Chikankari Coord Set (Cotton),Coord Set,Ivory,M,541,2797,53,0.755,Critical,14.94,50,42,57,-3,Same,27050
+SKU-0019,Shibori Kurta (Silk blend),Kurta,Charcoal,L,539,1174,32,0.844,Critical,8.11,29,25,33,-3,Same,15631
+SKU-0342,Ikat Dupatta (Linen),Dupatta,Indigo,XXL,245,482,89,0.146,Healthy,0.0,86,73,99,-3,Same,21070
+SKU-0470,Chikankari Palazzo (Mul mul),Palazzo,Blush pink,M,277,819,35,0.543,Critical,47.98,33,28,38,-2,Same,9141
+SKU-0029,Dabu print Kurta (Cotton),Kurta,Sage green,L,647,1560,31,0.065,Healthy,18.7,29,25,33,-2,Same,18763
+SKU-0173,Dabu print Saree (Silk blend),Saree,Indigo,XS,2133,3084,70,0.614,Critical,27.02,68,58,78,-2,Same,145044
+SKU-0169,Ikat Saree (Rayon),Saree,Ivory,XXL,1725,3120,32,0.688,Warning,12.17,30,26,34,-2,Same,51750
+SKU-0107,Chikankari Kurta (Mul mul),Kurta,Blush pink,XS,626,1659,32,0.125,Critical,55.12,30,26,34,-2,Same,18780
+SKU-0487,Block print Palazzo (Cotton),Palazzo,Sage green,XS,299,963,65,0.292,Healthy,2.83,63,54,72,-2,Same,18837
+SKU-0469,Ikat Palazzo (Chanderi),Palazzo,Ivory,M,299,1093,64,0.672,Critical,16.73,62,53,71,-2,Same,18538
+SKU-0437,Dabu print Dress (Rayon),Dress,Mauve,XXL,645,1114,91,0.736,Healthy,0.0,89,76,102,-2,Same,57405
+SKU-0022,Ajrakh Kurta (Silk blend),Kurta,Ivory,XL,401,1217,85,0.624,Healthy,0.75,83,71,95,-2,Same,33283
+SKU-0440,Bagru print Dress (Silk blend),Dress,Terracotta,XXL,691,1679,105,0.886,Healthy,2.39,104,88,120,-1,Same,71864
+SKU-0475,Kalamkari Palazzo (Silk blend),Palazzo,Mauve,M,271,673,35,0.086,Critical,75.86,34,29,39,-1,Same,9214
+SKU-0343,Shibori Dupatta (Rayon),Dupatta,Blush pink,S,240,744,32,0.281,Critical,46.74,31,26,36,-1,Same,7440
+SKU-0335,Kalamkari Dupatta (Silk blend),Dupatta,Blush pink,L,242,527,37,0.865,Critical,9.32,36,31,41,-1,Same,8712
+SKU-0243,Bandhani Coord Set (Chanderi),Coord Set,Sage green,XXL,872,1893,31,0.226,Healthy,6.97,30,26,34,-1,Same,26160
+SKU-0064,Bandhani Kurta (Cotton),Kurta,Sage green,L,566,1291,48,0.729,Critical,23.31,47,40,54,-1,Same,26602
+SKU-0477,Mirror work Palazzo (Rayon),Palazzo,Indigo,XXL,249,1038,97,0.371,Healthy,0.0,96,82,110,-1,Same,23904
+SKU-0155,Ikat Saree (Silk blend),Saree,Rust,L,1463,3985,91,0.56,Healthy,0.0,90,76,103,-1,Same,131670
+SKU-0341,Block print Dupatta (Mul mul),Dupatta,Charcoal,L,188,374,55,0.691,Critical,25.34,55,47,63,0,Same,10340
+SKU-0283,Block print Coord Set (Cotton),Coord Set,Ivory,XS,541,1420,30,0.2,Healthy,19.2,30,26,34,0,Same,16230
+SKU-0453,Bandhani Palazzo (Rayon),Palazzo,Teal,S,275,831,34,0.118,Critical,84.67,34,29,39,0,Same,9350
+SKU-0194,Mirror work Saree (Silk blend),Saree,Charcoal,XL,1668,6226,30,0.1,Critical,56.7,30,26,34,0,Same,50040
+SKU-0229,Mirror work Coord Set (Rayon),Coord Set,Ochre,S,840,1528,84,0.321,Healthy,0.0,84,71,97,0,Same,70560
+SKU-0389,Kalamkari Dress (Mul mul),Dress,Teal,L,528,1861,30,0.7,Critical,15.0,30,26,34,0,Same,15840
+SKU-0201,Shibori Coord Set (Cotton),Coord Set,Ochre,XS,594,1565,40,0.3,Healthy,16.8,40,34,46,0,Same,23760
+SKU-0139,Ajrakh Saree (Mul mul),Saree,Ivory,L,854,3681,36,0.722,Critical,18.63,36,31,41,0,Same,30744
+SKU-0014,Bandhani Kurta (Cotton),Kurta,Mauve,S,384,1688,43,0.791,Warning,9.61,43,37,49,0,Same,16512
+SKU-0219,Shibori Coord Set (Cotton),Coord Set,Indigo,M,825,2568,34,0.088,Critical,82.99,35,30,40,1,Same,28875
+SKU-0484,Dabu print Palazzo (Cotton),Palazzo,Ivory,XXL,349,683,88,0.466,Healthy,0.53,89,76,102,1,Same,31061
+SKU-0347,Block print Dupatta (Georgette),Dupatta,Teal,M,275,396,87,0.851,Critical,9.09,88,75,101,1,Same,24200
+SKU-0369,Bandhani Dupatta (Silk blend),Dupatta,Ivory,L,160,388,105,0.857,Critical,9.01,107,91,123,2,Same,17120
+SKU-0275,Shibori Coord Set (Mul mul),Coord Set,Rust,L,892,2522,33,0.848,Critical,12.16,35,30,40,2,Same,31220
+SKU-0320,Chikankari Dupatta (Silk blend),Dupatta,Teal,L,225,763,39,0.667,Warning,14.65,41,35,47,2,Same,9225
+SKU-0100,Dabu print Kurta (Linen),Kurta,Blush pink,M,565,1335,32,0.219,Critical,66.39,35,30,40,3,Same,19775
+SKU-0120,Bandhani Kurta (Linen),Kurta,Ochre,M,453,1053,80,0.412,Healthy,0.59,83,71,95,3,Same,37599
+SKU-0356,Shibori Dupatta (Mul mul),Dupatta,Sage green,L,172,576,31,0.677,Warning,15.5,34,29,39,3,Same,5848
+SKU-0144,Ajrakh Saree (Cotton),Saree,Mauve,L,1714,3508,31,0.677,Warning,15.5,34,29,39,3,Same,58276
+SKU-0083,Block print Kurta (Rayon),Kurta,Teal,XXL,447,1054,98,0.796,Warning,5.71,101,86,116,3,Same,45147
+SKU-0293,Ajrakh Coord Set (Silk blend),Coord Set,Terracotta,XS,680,1559,47,0.596,Critical,24.64,50,42,57,3,Same,34000
+SKU-0439,Block print Dress (Cotton),Dress,Indigo,M,427,1592,70,0.714,Critical,14.59,73,62,84,3,Same,31171
+SKU-0078,Ikat Kurta (Chanderi),Kurta,Blush pink,S,357,1071,57,0.789,Warning,8.23,61,52,70,4,Same,21777
+SKU-0081,Ajrakh Kurta (Silk blend),Kurta,Mauve,XS,359,1773,94,0.5,Healthy,0.0,98,83,113,4,Same,35182
+SKU-0483,Bandhani Palazzo (Mul mul),Palazzo,Rust,S,240,697,63,0.873,Warning,5.46,67,57,77,4,Same,16080
+SKU-0056,Ikat Kurta (Georgette),Kurta,Indigo,XS,445,1718,53,0.566,Warning,17.79,57,48,66,4,Same,25365
+SKU-0103,Block print Kurta (Rayon),Kurta,Sage green,XS,475,1761,39,0.359,Healthy,13.46,43,37,49,4,Same,20425
+SKU-0023,Ajrakh Kurta (Chanderi),Kurta,Ochre,XL,430,1648,30,0.133,Critical,80.63,34,29,39,4,Same,14620
+SKU-0500,Ikat Palazzo (Silk blend),Palazzo,Rust,L,220,791,30,0.167,Critical,81.63,34,29,39,4,Same,7480
+SKU-0476,Kalamkari Palazzo (Linen),Palazzo,Blush pink,M,296,1066,91,0.626,Healthy,3.74,95,81,109,4,Same,28120
+SKU-0034,Ikat Kurta (Georgette),Kurta,Rust,XS,638,1347,77,0.468,Healthy,1.06,82,70,94,5,Same,52316
+SKU-0135,Mirror work Saree (Linen),Saree,Blush pink,XS,1648,5632,30,0.133,Critical,104.04,35,30,40,5,Same,57680
+SKU-0003,Block print Kurta (Mul mul),Kurta,Terracotta,XXL,643,1335,78,0.577,Healthy,0.42,83,71,95,5,Same,53369
+SKU-0221,Shibori Coord Set (Cotton),Coord Set,Mauve,L,765,2243,72,0.764,Warning,10.15,77,65,89,5,Same,58905
+SKU-0028,Bagru print Kurta (Cotton),Kurta,Charcoal,XS,477,1500,52,0.808,Warning,5.76,57,48,66,5,Same,27189
+SKU-0402,Bandhani Dress (Cotton),Dress,Sage green,XS,746,1641,30,0.1,Critical,88.2,35,30,40,5,Same,26110
+SKU-0090,Bandhani Kurta (Georgette),Kurta,Indigo,L,635,1284,67,0.881,Warning,4.52,72,61,83,5,Same,45720
+SKU-0051,Mirror work Kurta (Cotton),Kurta,Blush pink,XL,639,1045,30,0.2,Critical,74.4,35,30,40,5,Same,22365
+SKU-0307,Kalamkari Dupatta (Chanderi),Dupatta,Ochre,XXL,173,837,89,0.697,Critical,15.15,95,81,109,6,Buy more,16435
+SKU-0346,Bandhani Dupatta (Cotton),Dupatta,Sage green,XL,227,488,95,0.8,Warning,6.6,101,86,116,6,Buy more,22927
+SKU-0421,Chikankari Dress (Rayon),Dress,Indigo,XS,729,2051,37,0.838,Critical,8.75,44,37,51,7,Buy more,32076
+SKU-0092,Block print Kurta (Mul mul),Kurta,Sage green,XL,533,1350,35,0.8,Warning,7.8,42,36,48,7,Buy more,22386
+SKU-0458,Mirror work Palazzo (Rayon),Palazzo,Charcoal,S,368,1058,36,0.667,Warning,11.32,44,37,51,8,Buy more,16192
+SKU-0055,Ikat Kurta (Chanderi),Kurta,Sage green,S,599,1471,48,0.729,Warning,10.03,56,48,64,8,Buy more,33544
+SKU-0370,Block print Dupatta (Rayon),Dupatta,Terracotta,L,191,805,98,0.806,Critical,10.09,106,90,122,8,Buy more,20246
+SKU-0354,Chikankari Dupatta (Cotton),Dupatta,Rust,L,182,422,67,0.866,Warning,6.57,76,65,87,9,Buy more,13832
+SKU-0228,Ikat Coord Set (Chanderi),Coord Set,Terracotta,L,793,1550,37,0.865,Critical,10.66,46,39,53,9,Buy more,36478
+SKU-0291,Shibori Coord Set (Cotton),Coord Set,Charcoal,S,881,2235,91,0.758,Healthy,4.6,101,86,116,10,Buy more,88981
+SKU-0405,Bandhani Dress (Silk blend),Dress,Ochre,S,494,2009,46,0.478,Healthy,5.22,56,48,64,10,Buy more,27664
+SKU-0060,Kalamkari Kurta (Chanderi),Kurta,Blush pink,L,454,1145,50,0.7,Warning,11.1,60,51,69,10,Buy more,27240
+SKU-0054,Chikankari Kurta (Mul mul),Kurta,Ivory,XXL,553,1167,52,0.692,Warning,15.09,63,54,72,11,Buy more,34839
+SKU-0465,Ikat Palazzo (Cotton),Palazzo,Charcoal,S,264,740,44,0.614,Warning,10.81,55,47,63,11,Buy more,14520
+SKU-0338,Mirror work Dupatta (Cotton),Dupatta,Ivory,XL,233,712,33,0.606,Warning,11.03,44,37,51,11,Buy more,10252
+SKU-0384,Ikat Dress (Chanderi),Dress,Ochre,M,486,1174,80,0.612,Healthy,6.21,91,77,105,11,Buy more,44226
+SKU-0036,Block print Kurta (Mul mul),Kurta,Ivory,XL,376,1175,33,0.394,Healthy,10.3,44,37,51,11,Buy more,16544
+SKU-0129,Kalamkari Saree (Rayon),Saree,Terracotta,XXL,1578,3992,83,0.639,Healthy,2.53,95,81,109,12,Buy more,149910
+SKU-0006,Chikankari Kurta (Mul mul),Kurta,Blush pink,M,402,1289,65,0.8,Warning,9.8,77,65,89,12,Buy more,30954
+SKU-0467,Mirror work Palazzo (Linen),Palazzo,Sage green,L,280,967,32,0.719,Critical,15.17,44,37,51,12,Buy more,12320
+SKU-0021,Mirror work Kurta (Cotton),Kurta,Sage green,XS,521,1613,87,0.793,Healthy,3.73,99,84,114,12,Buy more,51579
+SKU-0435,Bagru print Dress (Linen),Dress,Charcoal,XS,594,1663,55,0.855,Warning,6.09,68,58,78,13,Buy more,40392
+SKU-0170,Ajrakh Saree (Linen),Saree,Mauve,XS,1965,4233,82,0.793,Healthy,2.9,95,81,109,13,Buy more,186675
+SKU-0225,Chikankari Coord Set (Silk blend),Coord Set,Ochre,XL,781,2196,88,0.125,Healthy,0.0,102,87,117,14,Buy more,79662
+SKU-0207,Chikankari Coord Set (Silk blend),Coord Set,Sage green,L,763,2741,87,0.621,Critical,20.47,101,86,116,14,Buy more,77063
+SKU-0380,Bagru print Dress (Mul mul),Dress,Mauve,L,537,1778,85,0.529,Healthy,0.0,100,85,115,15,Buy more,53700
+SKU-0046,Mirror work Kurta (Silk blend),Kurta,Mauve,XS,519,1787,82,0.354,Healthy,0.65,97,82,112,15,Buy more,50343
+SKU-0146,Bagru print Saree (Cotton),Saree,Terracotta,XXL,1876,5777,88,0.591,Critical,22.49,103,88,118,15,Buy more,193228
+SKU-0427,Dabu print Dress (Mul mul),Dress,Ochre,XL,538,1883,88,0.852,Warning,5.92,103,88,118,15,Buy more,55414
+SKU-0052,Mirror work Kurta (Rayon),Kurta,Teal,M,621,1138,45,0.667,Warning,13.99,61,52,70,16,Buy more,37881
+SKU-0118,Dabu print Kurta (Cotton),Kurta,Indigo,XXL,411,1081,67,0.851,Warning,6.56,84,71,97,17,Buy more,34524
+SKU-0360,Mirror work Dupatta (Mul mul),Dupatta,Charcoal,M,206,780,81,0.765,Warning,6.34,99,84,114,18,Buy more,20394
+SKU-0030,Chikankari Kurta (Cotton),Kurta,Charcoal,M,603,1601,77,0.571,Healthy,6.86,95,81,109,18,Buy more,57285
+SKU-0449,Ajrakh Dress (Rayon),Dress,Sage green,XL,510,1817,82,0.244,Healthy,0.76,101,86,116,19,Buy more,51510
+SKU-0130,Mirror work Saree (Georgette),Saree,Rust,XL,1782,5072,82,0.134,Healthy,1.73,102,87,117,20,Buy more,181764
+SKU-0074,Shibori Kurta (Cotton),Kurta,Ochre,XL,539,1454,87,0.816,Critical,11.41,107,91,123,20,Buy more,57673
+SKU-0222,Mirror work Coord Set (Mul mul),Coord Set,Charcoal,M,500,1712,76,0.724,Warning,8.56,96,82,110,20,Buy more,48000
+SKU-0004,Bandhani Kurta (Mul mul),Kurta,Teal,L,408,1460,32,0.406,Healthy,5.35,53,45,61,21,Buy much more,21624
+SKU-0451,Shibori Palazzo (Cotton),Palazzo,Mauve,S,286,815,46,0.826,Warning,5.92,67,57,77,21,Buy much more,19162
+SKU-0399,Chikankari Dress (Chanderi),Dress,Ochre,XL,744,2136,72,0.708,Healthy,0.0,94,80,108,22,Buy much more,69936
+SKU-0174,Bagru print Saree (Linen),Saree,Mauve,XL,1552,4753,76,0.303,Healthy,0.7,98,83,113,22,Buy much more,152096
+SKU-0436,Ikat Dress (Cotton),Dress,Blush pink,XXL,660,1104,79,0.873,Warning,4.83,101,86,116,22,Buy much more,66660
+SKU-0404,Chikankari Dress (Cotton),Dress,Indigo,XXL,613,1802,59,0.864,Critical,7.07,81,69,93,22,Buy much more,49653
+SKU-0066,Chikankari Kurta (Cotton),Kurta,Teal,XL,374,1418,71,0.592,Healthy,8.57,94,80,108,23,Buy much more,35156
+SKU-0351,Bandhani Dupatta (Linen),Dupatta,Sage green,XS,191,539,69,0.565,Healthy,4.78,93,79,107,24,Buy much more,17763
+SKU-0492,Bagru print Palazzo (Silk blend),Palazzo,Indigo,M,268,848,62,0.742,Healthy,1.29,86,73,99,24,Buy much more,23048
+SKU-0106,Mirror work Kurta (Rayon),Kurta,Charcoal,XS,575,1392,51,0.804,Warning,6.86,75,64,86,24,Buy much more,43125
+SKU-0226,Dabu print Coord Set (Mul mul),Coord Set,Mauve,S,824,2584,72,0.361,Healthy,0.64,96,82,110,24,Buy much more,79104
+SKU-0375,Mirror work Dress (Silk blend),Dress,Blush pink,S,574,1728,70,0.243,Healthy,1.51,95,81,109,25,Buy much more,54530
+SKU-0017,Ajrakh Kurta (Chanderi),Kurta,Charcoal,XL,592,1035,57,0.456,Healthy,0.0,83,71,95,26,Buy much more,49136
+SKU-0042,Dabu print Kurta (Georgette),Kurta,Terracotta,M,595,1125,54,0.852,Healthy,0.89,80,68,92,26,Buy much more,47600
+SKU-0196,Bagru print Saree (Mul mul),Saree,Charcoal,XS,2094,4455,37,0.541,Healthy,10.56,64,54,74,27,Buy much more,134016
+SKU-0424,Kalamkari Dress (Chanderi),Dress,Mauve,XXL,557,1664,31,0.806,Healthy,3.49,58,49,67,27,Buy much more,32306
+SKU-0180,Kalamkari Saree (Rayon),Saree,Ivory,S,836,5587,74,0.541,Healthy,0.46,101,86,116,27,Buy much more,84436
+SKU-0340,Ajrakh Dupatta (Mul mul),Dupatta,Ochre,S,140,507,56,0.536,Healthy,0.0,85,72,98,29,Buy much more,11900
+SKU-0011,Bandhani Kurta (Cotton),Kurta,Blush pink,M,478,1597,62,0.774,Healthy,4.97,92,78,106,30,Buy much more,43976
+SKU-0088,Block print Kurta (Georgette),Kurta,Teal,XL,571,1712,43,0.86,Warning,5.32,73,62,84,30,Buy much more,41683
+SKU-0415,Bandhani Dress (Cotton),Dress,Ochre,L,519,2010,66,0.636,Healthy,8.01,96,82,110,30,Buy much more,49824
+SKU-0012,Chikankari Kurta (Cotton),Kurta,Blush pink,L,610,1439,62,0.774,Healthy,0.68,93,79,107,31,Buy much more,56730
+SKU-0309,Ikat Dupatta (Mul mul),Dupatta,Blush pink,XXL,199,535,63,0.635,Warning,12.04,95,81,109,32,Buy much more,18905
+SKU-0009,Kalamkari Kurta (Rayon),Kurta,Indigo,XL,564,1201,55,0.691,Healthy,5.56,88,75,101,33,Buy much more,49632
+SKU-0462,Kalamkari Palazzo (Linen),Palazzo,Mauve,XS,238,1077,60,0.683,Healthy,0.63,93,79,107,33,Buy much more,22134
+SKU-0149,Ikat Saree (Cotton),Saree,Ochre,S,927,6124,66,0.591,Healthy,7.36,99,84,114,33,Buy much more,91773
+SKU-0175,Bandhani Saree (Mul mul),Saree,Terracotta,XS,1526,4936,64,0.219,Healthy,1.56,98,83,113,34,Buy much more,149548
+SKU-0304,Block print Dupatta (Linen),Dupatta,Charcoal,S,177,403,49,0.551,Healthy,0.0,84,71,97,35,Buy much more,14868
+SKU-0249,Dabu print Coord Set (Silk blend),Coord Set,Mauve,L,651,2119,53,0.736,Warning,6.6,90,76,103,37,Buy much more,58590
+SKU-0251,Bandhani Coord Set (Mul mul),Coord Set,Indigo,XS,741,1980,50,0.84,Healthy,2.08,88,75,101,38,Buy much more,65208
+SKU-0333,Block print Dupatta (Georgette),Dupatta,Indigo,XS,177,633,32,0.656,Warning,8.6,70,60,80,38,Buy much more,12390
+SKU-0337,Ajrakh Dupatta (Georgette),Dupatta,Rust,XL,161,665,56,0.286,Healthy,0.71,96,82,110,40,Buy much more,15456
+SKU-0040,Bandhani Kurta (Linen),Kurta,Blush pink,S,572,1515,52,0.827,Warning,5.36,93,79,107,41,Buy much more,53196
+SKU-0296,Shibori Coord Set (Georgette),Coord Set,Indigo,XL,721,1438,37,0.757,Healthy,0.97,78,66,90,41,Buy much more,56238
+SKU-0295,Bandhani Coord Set (Linen),Coord Set,Ivory,XL,712,2595,61,0.656,Healthy,3.78,103,88,118,42,Buy much more,73336
+SKU-0148,Dabu print Saree (Chanderi),Saree,Indigo,XL,2024,3501,47,0.404,Healthy,0.0,91,77,105,44,Buy much more,184184
+SKU-0239,Kalamkari Coord Set (Chanderi),Coord Set,Mauve,L,653,2064,44,0.568,Healthy,0.43,89,76,102,45,Buy much more,58117
+SKU-0485,Ikat Palazzo (Cotton),Palazzo,Rust,S,299,608,39,0.385,Healthy,0.62,88,75,101,49,Buy much more,26312
+SKU-0113,Chikankari Kurta (Chanderi),Kurta,Indigo,XL,527,959,31,0.645,Healthy,0.71,80,68,92,49,Buy much more,42160
+SKU-0313,Ikat Dupatta (Georgette),Dupatta,Ochre,XXL,264,547,38,0.421,Healthy,1.16,89,76,102,51,Buy much more,23496
+SKU-0299,Kalamkari Coord Set (Rayon),Coord Set,Ivory,M,587,2467,48,0.646,Healthy,5.31,100,85,115,52,Buy much more,58700
