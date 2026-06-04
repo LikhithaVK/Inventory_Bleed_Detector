@@ -1,0 +1,501 @@
+sku_id,product_name,category,color,size,cost_price,mrp,supplier_id,launch_date,units_purchased
+SKU-0001,Bagru print Kurta (Rayon),Kurta,Mauve,S,452,1385,SUP-003,2024-08-17,116
+SKU-0002,Bagru print Kurta (Silk blend),Kurta,Ochre,XL,437,1322,SUP-002,2024-08-10,117
+SKU-0003,Block print Kurta (Mul mul),Kurta,Terracotta,XXL,643,1335,SUP-009,2024-10-28,78
+SKU-0004,Bandhani Kurta (Mul mul),Kurta,Teal,L,408,1460,SUP-009,2024-11-03,32
+SKU-0005,Chikankari Kurta (Chanderi),Kurta,Sage green,XS,484,970,SUP-002,2024-09-06,38
+SKU-0006,Chikankari Kurta (Mul mul),Kurta,Blush pink,M,402,1289,SUP-001,2024-08-18,65
+SKU-0007,Mirror work Kurta (Linen),Kurta,Terracotta,L,399,1337,SUP-006,2024-11-16,122
+SKU-0008,Ajrakh Kurta (Chanderi),Kurta,Sage green,XXL,540,1351,SUP-008,2024-10-05,107
+SKU-0009,Kalamkari Kurta (Rayon),Kurta,Indigo,XL,564,1201,SUP-008,2024-10-09,55
+SKU-0010,Shibori Kurta (Rayon),Kurta,Ivory,XS,566,1713,SUP-007,2024-07-17,38
+SKU-0011,Bandhani Kurta (Cotton),Kurta,Blush pink,M,478,1597,SUP-003,2024-09-16,62
+SKU-0012,Chikankari Kurta (Cotton),Kurta,Blush pink,L,610,1439,SUP-002,2024-10-08,62
+SKU-0013,Bagru print Kurta (Rayon),Kurta,Rust,L,397,1452,SUP-008,2024-06-20,115
+SKU-0014,Bandhani Kurta (Cotton),Kurta,Mauve,S,384,1688,SUP-007,2024-08-09,43
+SKU-0015,Dabu print Kurta (Chanderi),Kurta,Rust,XS,632,1342,SUP-004,2024-11-03,125
+SKU-0016,Chikankari Kurta (Rayon),Kurta,Sage green,XL,571,1434,SUP-007,2024-06-20,88
+SKU-0017,Ajrakh Kurta (Chanderi),Kurta,Charcoal,XL,592,1035,SUP-006,2024-10-21,57
+SKU-0018,Ikat Kurta (Linen),Kurta,Terracotta,L,377,1569,SUP-009,2024-10-05,132
+SKU-0019,Shibori Kurta (Silk blend),Kurta,Charcoal,L,539,1174,SUP-009,2024-07-12,32
+SKU-0020,Shibori Kurta (Linen),Kurta,Mauve,XS,547,1405,SUP-003,2024-06-16,135
+SKU-0021,Mirror work Kurta (Cotton),Kurta,Sage green,XS,521,1613,SUP-001,2024-09-20,87
+SKU-0022,Ajrakh Kurta (Silk blend),Kurta,Ivory,XL,401,1217,SUP-001,2024-10-10,85
+SKU-0023,Ajrakh Kurta (Chanderi),Kurta,Ochre,XL,430,1648,SUP-001,2024-07-28,30
+SKU-0024,Dabu print Kurta (Linen),Kurta,Teal,L,475,1079,SUP-007,2024-09-26,104
+SKU-0025,Mirror work Kurta (Rayon),Kurta,Sage green,S,533,1072,SUP-006,2024-06-26,115
+SKU-0026,Shibori Kurta (Mul mul),Kurta,Ochre,XL,589,1093,SUP-003,2024-08-13,49
+SKU-0027,Bandhani Kurta (Georgette),Kurta,Rust,L,601,1352,SUP-007,2024-08-20,81
+SKU-0028,Bagru print Kurta (Cotton),Kurta,Charcoal,XS,477,1500,SUP-002,2024-08-28,52
+SKU-0029,Dabu print Kurta (Cotton),Kurta,Sage green,L,647,1560,SUP-001,2024-11-11,31
+SKU-0030,Chikankari Kurta (Cotton),Kurta,Charcoal,M,603,1601,SUP-003,2024-10-12,77
+SKU-0031,Bagru print Kurta (Linen),Kurta,Blush pink,XS,557,1080,SUP-008,2024-06-23,145
+SKU-0032,Mirror work Kurta (Mul mul),Kurta,Rust,XXL,424,1574,SUP-009,2024-06-07,128
+SKU-0033,Bandhani Kurta (Rayon),Kurta,Charcoal,L,502,1287,SUP-001,2024-09-25,97
+SKU-0034,Ikat Kurta (Georgette),Kurta,Rust,XS,638,1347,SUP-001,2024-10-28,77
+SKU-0035,Mirror work Kurta (Linen),Kurta,Rust,XXL,371,1699,SUP-008,2024-06-13,56
+SKU-0036,Block print Kurta (Mul mul),Kurta,Ivory,XL,376,1175,SUP-003,2024-10-28,33
+SKU-0037,Block print Kurta (Mul mul),Kurta,Mauve,XXL,384,1141,SUP-003,2024-09-30,134
+SKU-0038,Block print Kurta (Linen),Kurta,Mauve,M,386,1229,SUP-001,2024-08-17,145
+SKU-0039,Chikankari Kurta (Cotton),Kurta,Rust,S,540,1202,SUP-009,2024-06-11,135
+SKU-0040,Bandhani Kurta (Linen),Kurta,Blush pink,S,572,1515,SUP-006,2024-09-21,52
+SKU-0041,Dabu print Kurta (Cotton),Kurta,Blush pink,XS,476,1104,SUP-009,2024-07-11,72
+SKU-0042,Dabu print Kurta (Georgette),Kurta,Terracotta,M,595,1125,SUP-002,2024-10-10,54
+SKU-0043,Shibori Kurta (Mul mul),Kurta,Sage green,XS,362,1777,SUP-008,2024-07-06,139
+SKU-0044,Ajrakh Kurta (Chanderi),Kurta,Teal,XXL,491,1420,SUP-003,2024-06-28,54
+SKU-0045,Mirror work Kurta (Chanderi),Kurta,Terracotta,XXL,535,1524,SUP-001,2024-07-16,81
+SKU-0046,Mirror work Kurta (Silk blend),Kurta,Mauve,XS,519,1787,SUP-008,2024-11-03,82
+SKU-0047,Chikankari Kurta (Mul mul),Kurta,Ochre,XL,409,1569,SUP-004,2024-11-13,123
+SKU-0048,Ajrakh Kurta (Mul mul),Kurta,Terracotta,XXL,396,1772,SUP-003,2024-09-27,46
+SKU-0049,Dabu print Kurta (Georgette),Kurta,Terracotta,XL,469,1780,SUP-010,2024-10-30,146
+SKU-0050,Kalamkari Kurta (Cotton),Kurta,Terracotta,S,628,1076,SUP-001,2024-07-04,140
+SKU-0051,Mirror work Kurta (Cotton),Kurta,Blush pink,XL,639,1045,SUP-005,2024-07-15,30
+SKU-0052,Mirror work Kurta (Rayon),Kurta,Teal,M,621,1138,SUP-010,2024-09-10,45
+SKU-0053,Kalamkari Kurta (Georgette),Kurta,Ivory,XXL,435,1646,SUP-004,2024-10-20,98
+SKU-0054,Chikankari Kurta (Mul mul),Kurta,Ivory,XXL,553,1167,SUP-005,2024-08-25,52
+SKU-0055,Ikat Kurta (Chanderi),Kurta,Sage green,S,599,1471,SUP-010,2024-09-10,48
+SKU-0056,Ikat Kurta (Georgette),Kurta,Indigo,XS,445,1718,SUP-004,2024-09-10,53
+SKU-0057,Block print Kurta (Cotton),Kurta,Rust,M,527,1624,SUP-005,2024-07-17,41
+SKU-0058,Ajrakh Kurta (Rayon),Kurta,Rust,S,414,1366,SUP-003,2024-09-05,116
+SKU-0059,Dabu print Kurta (Chanderi),Kurta,Terracotta,XXL,439,1725,SUP-002,2024-08-17,144
+SKU-0060,Kalamkari Kurta (Chanderi),Kurta,Blush pink,L,454,1145,SUP-009,2024-09-21,50
+SKU-0061,Kalamkari Kurta (Cotton),Kurta,Blush pink,M,598,1625,SUP-001,2024-07-03,128
+SKU-0062,Chikankari Kurta (Linen),Kurta,Mauve,L,385,1045,SUP-001,2024-06-19,84
+SKU-0063,Shibori Kurta (Linen),Kurta,Ivory,XS,362,1228,SUP-004,2024-08-11,141
+SKU-0064,Bandhani Kurta (Cotton),Kurta,Sage green,L,566,1291,SUP-009,2024-06-30,48
+SKU-0065,Ikat Kurta (Silk blend),Kurta,Terracotta,XL,425,1214,SUP-005,2024-10-21,128
+SKU-0066,Chikankari Kurta (Cotton),Kurta,Teal,XL,374,1418,SUP-005,2024-09-26,71
+SKU-0067,Kalamkari Kurta (Silk blend),Kurta,Teal,XL,535,1347,SUP-002,2024-07-19,140
+SKU-0068,Dabu print Kurta (Mul mul),Kurta,Ivory,XL,425,958,SUP-006,2024-09-05,36
+SKU-0069,Ajrakh Kurta (Silk blend),Kurta,Terracotta,S,523,1602,SUP-005,2024-07-04,58
+SKU-0070,Bagru print Kurta (Rayon),Kurta,Ivory,XXL,514,1371,SUP-004,2024-08-27,46
+SKU-0071,Ikat Kurta (Linen),Kurta,Rust,XL,566,1250,SUP-006,2024-07-09,68
+SKU-0072,Bandhani Kurta (Georgette),Kurta,Rust,XL,440,1663,SUP-002,2024-08-20,121
+SKU-0073,Bagru print Kurta (Rayon),Kurta,Charcoal,XS,475,1007,SUP-003,2024-06-23,106
+SKU-0074,Shibori Kurta (Cotton),Kurta,Ochre,XL,539,1454,SUP-006,2024-07-28,87
+SKU-0075,Kalamkari Kurta (Linen),Kurta,Mauve,M,393,1634,SUP-005,2024-06-11,65
+SKU-0076,Shibori Kurta (Chanderi),Kurta,Charcoal,XS,576,1608,SUP-001,2024-10-29,146
+SKU-0077,Chikankari Kurta (Cotton),Kurta,Terracotta,XXL,403,1208,SUP-008,2024-06-27,57
+SKU-0078,Ikat Kurta (Chanderi),Kurta,Blush pink,S,357,1071,SUP-002,2024-08-18,57
+SKU-0079,Mirror work Kurta (Georgette),Kurta,Ivory,XS,569,990,SUP-001,2024-06-16,146
+SKU-0080,Bandhani Kurta (Rayon),Kurta,Ochre,S,561,1410,SUP-003,2024-06-14,98
+SKU-0081,Ajrakh Kurta (Silk blend),Kurta,Mauve,XS,359,1773,SUP-006,2024-10-19,94
+SKU-0082,Kalamkari Kurta (Chanderi),Kurta,Charcoal,XXL,495,1173,SUP-001,2024-11-07,106
+SKU-0083,Block print Kurta (Rayon),Kurta,Teal,XXL,447,1054,SUP-001,2024-08-11,98
+SKU-0084,Kalamkari Kurta (Rayon),Kurta,Mauve,S,482,1720,SUP-010,2024-10-26,112
+SKU-0085,Shibori Kurta (Linen),Kurta,Ivory,M,494,1034,SUP-004,2024-09-01,91
+SKU-0086,Bagru print Kurta (Georgette),Kurta,Terracotta,S,637,983,SUP-002,2024-08-18,83
+SKU-0087,Ajrakh Kurta (Mul mul),Kurta,Ivory,XXL,467,1720,SUP-005,2024-07-18,123
+SKU-0088,Block print Kurta (Georgette),Kurta,Teal,XL,571,1712,SUP-005,2024-09-22,43
+SKU-0089,Mirror work Kurta (Mul mul),Kurta,Indigo,XXL,415,1024,SUP-002,2024-08-07,127
+SKU-0090,Bandhani Kurta (Georgette),Kurta,Indigo,L,635,1284,SUP-009,2024-08-19,67
+SKU-0091,Bandhani Kurta (Cotton),Kurta,Mauve,XL,379,1708,SUP-004,2024-08-04,39
+SKU-0092,Block print Kurta (Mul mul),Kurta,Sage green,XL,533,1350,SUP-002,2024-09-05,35
+SKU-0093,Bandhani Kurta (Georgette),Kurta,Charcoal,M,402,1399,SUP-006,2024-07-15,45
+SKU-0094,Bagru print Kurta (Cotton),Kurta,Rust,M,357,1309,SUP-002,2024-07-09,90
+SKU-0095,Kalamkari Kurta (Rayon),Kurta,Indigo,L,471,1000,SUP-010,2024-06-24,90
+SKU-0096,Block print Kurta (Rayon),Kurta,Charcoal,L,371,1354,SUP-010,2024-09-09,75
+SKU-0097,Shibori Kurta (Chanderi),Kurta,Charcoal,XS,383,1027,SUP-006,2024-10-04,140
+SKU-0098,Block print Kurta (Chanderi),Kurta,Sage green,XS,405,1299,SUP-008,2024-08-03,142
+SKU-0099,Bagru print Kurta (Linen),Kurta,Terracotta,L,602,1641,SUP-007,2024-10-02,107
+SKU-0100,Dabu print Kurta (Linen),Kurta,Blush pink,M,565,1335,SUP-007,2024-08-01,32
+SKU-0101,Ajrakh Kurta (Chanderi),Kurta,Ochre,M,460,1699,SUP-003,2024-08-03,44
+SKU-0102,Dabu print Kurta (Georgette),Kurta,Charcoal,XS,541,1580,SUP-007,2024-10-21,115
+SKU-0103,Block print Kurta (Rayon),Kurta,Sage green,XS,475,1761,SUP-004,2024-10-24,39
+SKU-0104,Ajrakh Kurta (Georgette),Kurta,Sage green,XXL,416,1182,SUP-002,2024-08-01,140
+SKU-0105,Dabu print Kurta (Cotton),Kurta,Mauve,XXL,613,1318,SUP-004,2024-08-27,55
+SKU-0106,Mirror work Kurta (Rayon),Kurta,Charcoal,XS,575,1392,SUP-005,2024-09-20,51
+SKU-0107,Chikankari Kurta (Mul mul),Kurta,Blush pink,XS,626,1659,SUP-007,2024-09-09,32
+SKU-0108,Kalamkari Kurta (Mul mul),Kurta,Blush pink,XXL,592,1492,SUP-002,2024-10-09,113
+SKU-0109,Mirror work Kurta (Linen),Kurta,Ivory,XXL,569,1024,SUP-008,2024-11-14,131
+SKU-0110,Bagru print Kurta (Chanderi),Kurta,Rust,XL,411,1390,SUP-005,2024-08-31,99
+SKU-0111,Ikat Kurta (Cotton),Kurta,Sage green,XS,467,1785,SUP-001,2024-10-30,119
+SKU-0112,Kalamkari Kurta (Linen),Kurta,Sage green,XL,491,1269,SUP-003,2024-10-11,62
+SKU-0113,Chikankari Kurta (Chanderi),Kurta,Indigo,XL,527,959,SUP-008,2024-11-13,31
+SKU-0114,Kalamkari Kurta (Cotton),Kurta,Ivory,XS,433,1270,SUP-008,2024-09-16,67
+SKU-0115,Kalamkari Kurta (Linen),Kurta,Indigo,XXL,443,1044,SUP-005,2024-09-30,149
+SKU-0116,Block print Kurta (Linen),Kurta,Blush pink,M,486,1537,SUP-009,2024-10-14,130
+SKU-0117,Bandhani Kurta (Rayon),Kurta,Mauve,XL,619,1777,SUP-003,2024-10-19,107
+SKU-0118,Dabu print Kurta (Cotton),Kurta,Indigo,XXL,411,1081,SUP-003,2024-08-21,67
+SKU-0119,Block print Kurta (Cotton),Kurta,Ivory,XS,372,1524,SUP-007,2024-06-28,95
+SKU-0120,Bandhani Kurta (Linen),Kurta,Ochre,M,453,1053,SUP-007,2024-10-10,80
+SKU-0121,Ikat Saree (Rayon),Saree,Ochre,XS,1353,4235,SUP-001,2024-06-16,130
+SKU-0122,Ajrakh Saree (Chanderi),Saree,Mauve,M,1750,4536,SUP-010,2024-08-24,126
+SKU-0123,Ikat Saree (Rayon),Saree,Blush pink,L,1941,5053,SUP-008,2024-06-30,44
+SKU-0124,Ikat Saree (Mul mul),Saree,Indigo,M,1980,5919,SUP-003,2024-11-13,144
+SKU-0125,Kalamkari Saree (Mul mul),Saree,Terracotta,XXL,2115,2993,SUP-006,2024-10-06,101
+SKU-0126,Dabu print Saree (Rayon),Saree,Blush pink,XXL,822,3014,SUP-002,2024-08-20,118
+SKU-0127,Ikat Saree (Mul mul),Saree,Mauve,XL,1792,3839,SUP-008,2024-09-19,135
+SKU-0128,Dabu print Saree (Cotton),Saree,Ochre,M,1808,2803,SUP-008,2024-10-18,70
+SKU-0129,Kalamkari Saree (Rayon),Saree,Terracotta,XXL,1578,3992,SUP-004,2024-10-03,83
+SKU-0130,Mirror work Saree (Georgette),Saree,Rust,XL,1782,5072,SUP-009,2024-11-17,82
+SKU-0131,Kalamkari Saree (Chanderi),Saree,Charcoal,M,1960,5707,SUP-004,2024-09-22,54
+SKU-0132,Ajrakh Saree (Silk blend),Saree,Indigo,M,874,2585,SUP-001,2024-07-06,72
+SKU-0133,Shibori Saree (Georgette),Saree,Sage green,XXL,1754,3405,SUP-005,2024-06-19,117
+SKU-0134,Dabu print Saree (Mul mul),Saree,Indigo,XL,1984,6358,SUP-001,2024-06-21,100
+SKU-0135,Mirror work Saree (Linen),Saree,Blush pink,XS,1648,5632,SUP-007,2024-06-23,30
+SKU-0136,Bagru print Saree (Silk blend),Saree,Ivory,XL,1964,3189,SUP-008,2024-07-18,48
+SKU-0137,Bandhani Saree (Georgette),Saree,Indigo,S,817,2968,SUP-006,2024-09-01,121
+SKU-0138,Bandhani Saree (Georgette),Saree,Sage green,XS,1936,4361,SUP-008,2024-06-05,58
+SKU-0139,Ajrakh Saree (Mul mul),Saree,Ivory,L,854,3681,SUP-002,2024-07-31,36
+SKU-0140,Shibori Saree (Georgette),Saree,Rust,M,2172,5279,SUP-008,2024-09-14,83
+SKU-0141,Bandhani Saree (Cotton),Saree,Blush pink,S,1560,5510,SUP-003,2024-09-12,125
+SKU-0142,Ikat Saree (Mul mul),Saree,Mauve,XXL,1911,3511,SUP-005,2024-07-21,43
+SKU-0143,Dabu print Saree (Georgette),Saree,Ivory,XL,1534,3022,SUP-003,2024-11-11,141
+SKU-0144,Ajrakh Saree (Cotton),Saree,Mauve,L,1714,3508,SUP-010,2024-08-28,31
+SKU-0145,Ikat Saree (Rayon),Saree,Mauve,XXL,1506,5390,SUP-009,2024-07-01,127
+SKU-0146,Bagru print Saree (Cotton),Saree,Terracotta,XXL,1876,5777,SUP-008,2024-08-24,88
+SKU-0147,Bandhani Saree (Cotton),Saree,Charcoal,S,927,4968,SUP-009,2024-07-27,132
+SKU-0148,Dabu print Saree (Chanderi),Saree,Indigo,XL,2024,3501,SUP-006,2024-11-14,47
+SKU-0149,Ikat Saree (Cotton),Saree,Ochre,S,927,6124,SUP-001,2024-10-07,66
+SKU-0150,Dabu print Saree (Linen),Saree,Mauve,M,1976,3822,SUP-009,2024-07-24,60
+SKU-0151,Shibori Saree (Rayon),Saree,Teal,S,1445,6463,SUP-001,2024-08-12,55
+SKU-0152,Ajrakh Saree (Mul mul),Saree,Ochre,M,1780,4881,SUP-001,2024-10-03,80
+SKU-0153,Dabu print Saree (Rayon),Saree,Mauve,M,1492,5563,SUP-008,2024-07-26,40
+SKU-0154,Bagru print Saree (Silk blend),Saree,Ochre,S,1475,3336,SUP-007,2024-10-10,140
+SKU-0155,Ikat Saree (Silk blend),Saree,Rust,L,1463,3985,SUP-001,2024-10-13,91
+SKU-0156,Ajrakh Saree (Rayon),Saree,Charcoal,XS,1164,2681,SUP-008,2024-06-17,46
+SKU-0157,Dabu print Saree (Cotton),Saree,Teal,M,2040,3138,SUP-003,2024-08-06,143
+SKU-0158,Ajrakh Saree (Mul mul),Saree,Rust,XL,2052,6403,SUP-001,2024-08-08,90
+SKU-0159,Block print Saree (Georgette),Saree,Blush pink,M,1840,5840,SUP-008,2024-09-24,124
+SKU-0160,Mirror work Saree (Cotton),Saree,Indigo,XS,1460,5352,SUP-010,2024-07-23,134
+SKU-0161,Chikankari Saree (Cotton),Saree,Teal,S,846,5559,SUP-005,2024-11-08,115
+SKU-0162,Kalamkari Saree (Georgette),Saree,Charcoal,M,1049,2590,SUP-008,2024-11-04,143
+SKU-0163,Ikat Saree (Georgette),Saree,Rust,S,1626,3700,SUP-010,2024-08-28,132
+SKU-0164,Bandhani Saree (Mul mul),Saree,Indigo,M,2096,3382,SUP-005,2024-06-19,72
+SKU-0165,Chikankari Saree (Georgette),Saree,Blush pink,XS,1735,6478,SUP-004,2024-08-02,122
+SKU-0166,Ajrakh Saree (Cotton),Saree,Terracotta,L,1781,3120,SUP-002,2024-06-30,84
+SKU-0167,Chikankari Saree (Rayon),Saree,Indigo,M,1538,5441,SUP-007,2024-10-15,75
+SKU-0168,Kalamkari Saree (Mul mul),Saree,Charcoal,L,828,4232,SUP-009,2024-09-17,39
+SKU-0169,Ikat Saree (Rayon),Saree,Ivory,XXL,1725,3120,SUP-001,2024-08-07,32
+SKU-0170,Ajrakh Saree (Linen),Saree,Mauve,XS,1965,4233,SUP-001,2024-09-11,82
+SKU-0171,Dabu print Saree (Rayon),Saree,Mauve,M,1384,3163,SUP-006,2024-07-01,68
+SKU-0172,Ajrakh Saree (Cotton),Saree,Teal,L,2142,5615,SUP-004,2024-11-07,88
+SKU-0173,Dabu print Saree (Silk blend),Saree,Indigo,XS,2133,3084,SUP-010,2024-07-31,70
+SKU-0174,Bagru print Saree (Linen),Saree,Mauve,XL,1552,4753,SUP-006,2024-11-15,76
+SKU-0175,Bandhani Saree (Mul mul),Saree,Terracotta,XS,1526,4936,SUP-010,2024-11-09,64
+SKU-0176,Block print Saree (Silk blend),Saree,Rust,XXL,1489,3049,SUP-008,2024-09-17,140
+SKU-0177,Kalamkari Saree (Chanderi),Saree,Charcoal,M,1912,4576,SUP-009,2024-09-11,96
+SKU-0178,Bagru print Saree (Cotton),Saree,Mauve,M,1720,3555,SUP-002,2024-11-09,117
+SKU-0179,Bagru print Saree (Silk blend),Saree,Mauve,S,1947,3174,SUP-002,2024-10-11,99
+SKU-0180,Kalamkari Saree (Rayon),Saree,Ivory,S,836,5587,SUP-008,2024-10-21,74
+SKU-0181,Bandhani Saree (Chanderi),Saree,Rust,S,1023,2517,SUP-008,2024-08-17,120
+SKU-0182,Bagru print Saree (Mul mul),Saree,Ivory,M,2112,3485,SUP-009,2024-06-24,42
+SKU-0183,Kalamkari Saree (Chanderi),Saree,Sage green,M,1162,4804,SUP-006,2024-08-21,89
+SKU-0184,Shibori Saree (Silk blend),Saree,Teal,S,806,2756,SUP-010,2024-09-21,61
+SKU-0185,Chikankari Saree (Georgette),Saree,Indigo,L,1162,5708,SUP-002,2024-06-13,107
+SKU-0186,Chikankari Saree (Chanderi),Saree,Ivory,XS,1388,4212,SUP-001,2024-11-06,133
+SKU-0187,Bandhani Saree (Linen),Saree,Teal,S,2046,3207,SUP-009,2024-09-09,125
+SKU-0188,Kalamkari Saree (Rayon),Saree,Ochre,L,1793,6102,SUP-004,2024-06-15,125
+SKU-0189,Block print Saree (Mul mul),Saree,Ochre,XS,1283,3465,SUP-010,2024-09-11,147
+SKU-0190,Ajrakh Saree (Chanderi),Saree,Sage green,M,1504,2221,SUP-003,2024-07-21,81
+SKU-0191,Block print Saree (Linen),Saree,Rust,M,1180,4707,SUP-010,2024-11-11,116
+SKU-0192,Block print Saree (Silk blend),Saree,Charcoal,XL,1537,5556,SUP-004,2024-11-14,61
+SKU-0193,Bandhani Saree (Cotton),Saree,Blush pink,L,1953,5355,SUP-005,2024-10-27,76
+SKU-0194,Mirror work Saree (Silk blend),Saree,Charcoal,XL,1668,6226,SUP-003,2024-08-26,30
+SKU-0195,Ajrakh Saree (Rayon),Saree,Rust,XS,1369,6163,SUP-009,2024-06-05,53
+SKU-0196,Bagru print Saree (Mul mul),Saree,Charcoal,XS,2094,4455,SUP-005,2024-10-22,37
+SKU-0197,Ikat Saree (Georgette),Saree,Rust,XL,1390,3250,SUP-005,2024-09-29,53
+SKU-0198,Shibori Saree (Linen),Saree,Teal,XS,1177,5146,SUP-004,2024-06-23,129
+SKU-0199,Mirror work Saree (Linen),Saree,Mauve,XL,1320,3216,SUP-002,2024-09-16,117
+SKU-0200,Block print Saree (Rayon),Saree,Indigo,XXL,1383,2594,SUP-002,2024-09-15,139
+SKU-0201,Shibori Coord Set (Cotton),Coord Set,Ochre,XS,594,1565,SUP-008,2024-10-17,40
+SKU-0202,Block print Coord Set (Mul mul),Coord Set,Charcoal,XXL,713,2511,SUP-006,2024-10-08,115
+SKU-0203,Ajrakh Coord Set (Mul mul),Coord Set,Ivory,S,591,2072,SUP-001,2024-06-11,62
+SKU-0204,Dabu print Coord Set (Linen),Coord Set,Teal,S,732,1988,SUP-006,2024-07-25,132
+SKU-0205,Ajrakh Coord Set (Chanderi),Coord Set,Teal,L,589,1521,SUP-001,2024-06-28,133
+SKU-0206,Shibori Coord Set (Linen),Coord Set,Charcoal,XS,816,2034,SUP-002,2024-07-07,105
+SKU-0207,Chikankari Coord Set (Silk blend),Coord Set,Sage green,L,763,2741,SUP-006,2024-08-26,87
+SKU-0208,Bandhani Coord Set (Georgette),Coord Set,Charcoal,L,521,1809,SUP-010,2024-07-14,43
+SKU-0209,Shibori Coord Set (Rayon),Coord Set,Rust,S,511,1486,SUP-003,2024-11-06,84
+SKU-0210,Chikankari Coord Set (Rayon),Coord Set,Teal,M,737,2779,SUP-002,2024-07-05,99
+SKU-0211,Bagru print Coord Set (Cotton),Coord Set,Rust,L,710,2061,SUP-010,2024-10-12,144
+SKU-0212,Mirror work Coord Set (Georgette),Coord Set,Ivory,L,534,1844,SUP-001,2024-08-17,123
+SKU-0213,Ikat Coord Set (Rayon),Coord Set,Sage green,L,712,1558,SUP-004,2024-10-25,89
+SKU-0214,Shibori Coord Set (Mul mul),Coord Set,Terracotta,XL,651,2346,SUP-002,2024-08-14,129
+SKU-0215,Ikat Coord Set (Linen),Coord Set,Teal,S,565,1734,SUP-003,2024-06-09,144
+SKU-0216,Bandhani Coord Set (Rayon),Coord Set,Indigo,XL,685,2669,SUP-001,2024-07-16,128
+SKU-0217,Dabu print Coord Set (Mul mul),Coord Set,Indigo,XL,781,1499,SUP-005,2024-08-23,67
+SKU-0218,Bagru print Coord Set (Georgette),Coord Set,Charcoal,L,540,1717,SUP-002,2024-09-19,132
+SKU-0219,Shibori Coord Set (Cotton),Coord Set,Indigo,M,825,2568,SUP-005,2024-07-18,34
+SKU-0220,Dabu print Coord Set (Silk blend),Coord Set,Ochre,XXL,663,1700,SUP-010,2024-06-20,122
+SKU-0221,Shibori Coord Set (Cotton),Coord Set,Mauve,L,765,2243,SUP-008,2024-08-16,72
+SKU-0222,Mirror work Coord Set (Mul mul),Coord Set,Charcoal,M,500,1712,SUP-005,2024-09-15,76
+SKU-0223,Block print Coord Set (Mul mul),Coord Set,Blush pink,L,703,1564,SUP-006,2024-09-30,137
+SKU-0224,Ajrakh Coord Set (Linen),Coord Set,Indigo,XS,750,2356,SUP-005,2024-06-23,49
+SKU-0225,Chikankari Coord Set (Silk blend),Coord Set,Ochre,XL,781,2196,SUP-005,2024-11-17,88
+SKU-0226,Dabu print Coord Set (Mul mul),Coord Set,Mauve,S,824,2584,SUP-008,2024-11-06,72
+SKU-0227,Shibori Coord Set (Georgette),Coord Set,Blush pink,M,625,1616,SUP-002,2024-09-29,52
+SKU-0228,Ikat Coord Set (Chanderi),Coord Set,Terracotta,L,793,1550,SUP-007,2024-07-13,37
+SKU-0229,Mirror work Coord Set (Rayon),Coord Set,Ochre,S,840,1528,SUP-001,2024-11-10,84
+SKU-0230,Ajrakh Coord Set (Chanderi),Coord Set,Ivory,S,618,2641,SUP-008,2024-06-13,76
+SKU-0231,Shibori Coord Set (Linen),Coord Set,Sage green,XS,731,1987,SUP-001,2024-09-07,48
+SKU-0232,Kalamkari Coord Set (Cotton),Coord Set,Terracotta,XXL,786,2476,SUP-002,2024-10-01,143
+SKU-0233,Block print Coord Set (Cotton),Coord Set,Charcoal,XL,691,1974,SUP-009,2024-09-06,146
+SKU-0234,Ajrakh Coord Set (Rayon),Coord Set,Ochre,XXL,576,2582,SUP-004,2024-09-11,131
+SKU-0235,Bandhani Coord Set (Rayon),Coord Set,Ivory,XXL,518,1796,SUP-006,2024-10-26,100
+SKU-0236,Block print Coord Set (Mul mul),Coord Set,Terracotta,XL,588,2124,SUP-003,2024-06-28,89
+SKU-0237,Mirror work Coord Set (Chanderi),Coord Set,Rust,XXL,592,1704,SUP-010,2024-10-14,95
+SKU-0238,Dabu print Coord Set (Chanderi),Coord Set,Ochre,L,764,2426,SUP-005,2024-08-25,122
+SKU-0239,Kalamkari Coord Set (Chanderi),Coord Set,Mauve,L,653,2064,SUP-004,2024-11-06,44
+SKU-0240,Mirror work Coord Set (Linen),Coord Set,Indigo,L,542,2343,SUP-005,2024-08-23,52
+SKU-0241,Kalamkari Coord Set (Mul mul),Coord Set,Charcoal,L,606,2414,SUP-003,2024-08-30,44
+SKU-0242,Mirror work Coord Set (Silk blend),Coord Set,Indigo,XXL,823,2188,SUP-004,2024-06-30,141
+SKU-0243,Bandhani Coord Set (Chanderi),Coord Set,Sage green,XXL,872,1893,SUP-002,2024-10-22,31
+SKU-0244,Shibori Coord Set (Linen),Coord Set,Teal,L,576,2043,SUP-010,2024-08-20,68
+SKU-0245,Bagru print Coord Set (Cotton),Coord Set,Terracotta,XL,896,1558,SUP-010,2024-09-08,85
+SKU-0246,Chikankari Coord Set (Linen),Coord Set,Ivory,L,535,2507,SUP-008,2024-07-23,74
+SKU-0247,Chikankari Coord Set (Linen),Coord Set,Ochre,XL,861,1958,SUP-006,2024-07-18,121
+SKU-0248,Dabu print Coord Set (Chanderi),Coord Set,Charcoal,XL,892,2449,SUP-010,2024-11-09,101
+SKU-0249,Dabu print Coord Set (Silk blend),Coord Set,Mauve,L,651,2119,SUP-002,2024-09-30,53
+SKU-0250,Ajrakh Coord Set (Silk blend),Coord Set,Sage green,S,518,2483,SUP-001,2024-08-21,84
+SKU-0251,Bandhani Coord Set (Mul mul),Coord Set,Indigo,XS,741,1980,SUP-007,2024-09-30,50
+SKU-0252,Bandhani Coord Set (Mul mul),Coord Set,Teal,M,649,2204,SUP-010,2024-06-28,102
+SKU-0253,Ajrakh Coord Set (Silk blend),Coord Set,Teal,XL,577,2500,SUP-002,2024-06-18,96
+SKU-0254,Chikankari Coord Set (Cotton),Coord Set,Ivory,M,541,2797,SUP-007,2024-07-16,53
+SKU-0255,Ikat Coord Set (Chanderi),Coord Set,Ochre,S,687,1701,SUP-007,2024-10-30,138
+SKU-0256,Ikat Coord Set (Silk blend),Coord Set,Charcoal,XS,535,2143,SUP-006,2024-08-13,70
+SKU-0257,Ajrakh Coord Set (Mul mul),Coord Set,Mauve,L,695,1960,SUP-005,2024-09-19,37
+SKU-0258,Dabu print Coord Set (Silk blend),Coord Set,Ochre,XXL,729,1466,SUP-002,2024-10-05,116
+SKU-0259,Block print Coord Set (Silk blend),Coord Set,Indigo,XXL,671,2169,SUP-004,2024-08-08,37
+SKU-0260,Shibori Coord Set (Georgette),Coord Set,Terracotta,XXL,649,1852,SUP-009,2024-09-02,84
+SKU-0261,Bagru print Coord Set (Mul mul),Coord Set,Rust,XXL,899,2435,SUP-007,2024-06-26,121
+SKU-0262,Kalamkari Coord Set (Mul mul),Coord Set,Blush pink,L,614,2527,SUP-001,2024-07-23,59
+SKU-0263,Ajrakh Coord Set (Georgette),Coord Set,Ivory,XL,648,2507,SUP-006,2024-06-21,145
+SKU-0264,Ikat Coord Set (Cotton),Coord Set,Teal,S,725,1908,SUP-002,2024-06-29,134
+SKU-0265,Bandhani Coord Set (Mul mul),Coord Set,Teal,S,840,2169,SUP-004,2024-09-04,111
+SKU-0266,Mirror work Coord Set (Silk blend),Coord Set,Ochre,L,810,1661,SUP-005,2024-06-08,145
+SKU-0267,Dabu print Coord Set (Linen),Coord Set,Indigo,XL,511,2662,SUP-003,2024-09-30,59
+SKU-0268,Chikankari Coord Set (Mul mul),Coord Set,Charcoal,XL,715,1533,SUP-003,2024-09-12,95
+SKU-0269,Ajrakh Coord Set (Linen),Coord Set,Sage green,S,846,1529,SUP-010,2024-06-08,54
+SKU-0270,Block print Coord Set (Mul mul),Coord Set,Ivory,XXL,780,1652,SUP-006,2024-09-25,139
+SKU-0271,Shibori Coord Set (Rayon),Coord Set,Mauve,S,880,2298,SUP-008,2024-07-07,50
+SKU-0272,Ikat Coord Set (Chanderi),Coord Set,Ochre,XL,524,2502,SUP-002,2024-09-11,89
+SKU-0273,Bandhani Coord Set (Rayon),Coord Set,Rust,S,650,1866,SUP-010,2024-10-18,118
+SKU-0274,Ajrakh Coord Set (Rayon),Coord Set,Blush pink,XS,629,1781,SUP-007,2024-11-07,112
+SKU-0275,Shibori Coord Set (Mul mul),Coord Set,Rust,L,892,2522,SUP-001,2024-06-22,33
+SKU-0276,Chikankari Coord Set (Mul mul),Coord Set,Sage green,XL,759,2184,SUP-004,2024-08-09,65
+SKU-0277,Kalamkari Coord Set (Mul mul),Coord Set,Rust,M,623,1821,SUP-006,2024-09-16,43
+SKU-0278,Chikankari Coord Set (Chanderi),Coord Set,Mauve,XXL,728,1997,SUP-006,2024-07-08,108
+SKU-0279,Bagru print Coord Set (Georgette),Coord Set,Mauve,XS,648,2049,SUP-005,2024-09-21,119
+SKU-0280,Kalamkari Coord Set (Rayon),Coord Set,Sage green,XS,741,1892,SUP-003,2024-08-28,142
+SKU-0281,Ikat Coord Set (Georgette),Coord Set,Mauve,S,687,1794,SUP-004,2024-06-22,63
+SKU-0282,Bagru print Coord Set (Silk blend),Coord Set,Charcoal,XL,551,2023,SUP-004,2024-08-28,58
+SKU-0283,Block print Coord Set (Cotton),Coord Set,Ivory,XS,541,1420,SUP-009,2024-10-07,30
+SKU-0284,Block print Coord Set (Chanderi),Coord Set,Indigo,S,629,1971,SUP-008,2024-10-01,50
+SKU-0285,Bagru print Coord Set (Silk blend),Coord Set,Ochre,XS,783,2114,SUP-001,2024-10-15,89
+SKU-0286,Block print Coord Set (Georgette),Coord Set,Mauve,XL,842,2255,SUP-008,2024-09-10,116
+SKU-0287,Block print Coord Set (Rayon),Coord Set,Sage green,XL,542,1807,SUP-008,2024-06-19,87
+SKU-0288,Ikat Coord Set (Georgette),Coord Set,Rust,M,865,2651,SUP-003,2024-07-02,136
+SKU-0289,Mirror work Coord Set (Chanderi),Coord Set,Ochre,L,760,2172,SUP-001,2024-08-16,124
+SKU-0290,Shibori Coord Set (Chanderi),Coord Set,Indigo,M,635,1759,SUP-001,2024-06-18,65
+SKU-0291,Shibori Coord Set (Cotton),Coord Set,Charcoal,S,881,2235,SUP-007,2024-09-01,91
+SKU-0292,Kalamkari Coord Set (Mul mul),Coord Set,Blush pink,S,754,1769,SUP-006,2024-11-08,42
+SKU-0293,Ajrakh Coord Set (Silk blend),Coord Set,Terracotta,XS,680,1559,SUP-008,2024-08-15,47
+SKU-0294,Dabu print Coord Set (Cotton),Coord Set,Indigo,XXL,682,1887,SUP-004,2024-09-20,59
+SKU-0295,Bandhani Coord Set (Linen),Coord Set,Ivory,XL,712,2595,SUP-003,2024-10-17,61
+SKU-0296,Shibori Coord Set (Georgette),Coord Set,Indigo,XL,721,1438,SUP-005,2024-11-06,37
+SKU-0297,Chikankari Coord Set (Mul mul),Coord Set,Ochre,XXL,801,2783,SUP-009,2024-07-06,51
+SKU-0298,Kalamkari Coord Set (Georgette),Coord Set,Sage green,M,847,2169,SUP-002,2024-10-20,124
+SKU-0299,Kalamkari Coord Set (Rayon),Coord Set,Ivory,M,587,2467,SUP-006,2024-10-27,48
+SKU-0300,Chikankari Coord Set (Mul mul),Coord Set,Charcoal,XL,522,1812,SUP-008,2024-10-19,135
+SKU-0301,Kalamkari Dupatta (Silk blend),Dupatta,Ivory,L,263,421,SUP-008,2024-07-12,128
+SKU-0302,Shibori Dupatta (Chanderi),Dupatta,Mauve,XXL,183,711,SUP-007,2024-08-12,120
+SKU-0303,Shibori Dupatta (Mul mul),Dupatta,Sage green,XXL,274,415,SUP-010,2024-07-29,119
+SKU-0304,Block print Dupatta (Linen),Dupatta,Charcoal,S,177,403,SUP-005,2024-11-06,49
+SKU-0305,Bagru print Dupatta (Silk blend),Dupatta,Mauve,S,194,749,SUP-004,2024-09-09,140
+SKU-0306,Dabu print Dupatta (Linen),Dupatta,Rust,S,244,481,SUP-005,2024-10-29,131
+SKU-0307,Kalamkari Dupatta (Chanderi),Dupatta,Ochre,XXL,173,837,SUP-004,2024-08-07,89
+SKU-0308,Block print Dupatta (Georgette),Dupatta,Teal,L,176,778,SUP-003,2024-10-29,117
+SKU-0309,Ikat Dupatta (Mul mul),Dupatta,Blush pink,XXL,199,535,SUP-008,2024-09-24,63
+SKU-0310,Bandhani Dupatta (Cotton),Dupatta,Rust,XXL,277,431,SUP-008,2024-06-24,138
+SKU-0311,Mirror work Dupatta (Rayon),Dupatta,Sage green,M,195,379,SUP-004,2024-09-21,123
+SKU-0312,Ikat Dupatta (Cotton),Dupatta,Charcoal,L,232,532,SUP-006,2024-06-25,74
+SKU-0313,Ikat Dupatta (Georgette),Dupatta,Ochre,XXL,264,547,SUP-007,2024-11-14,38
+SKU-0314,Shibori Dupatta (Mul mul),Dupatta,Terracotta,S,209,749,SUP-003,2024-09-10,106
+SKU-0315,Mirror work Dupatta (Rayon),Dupatta,Ochre,XS,226,462,SUP-003,2024-08-16,146
+SKU-0316,Dabu print Dupatta (Silk blend),Dupatta,Mauve,XL,266,775,SUP-005,2024-10-14,113
+SKU-0317,Kalamkari Dupatta (Mul mul),Dupatta,Ochre,S,168,754,SUP-004,2024-09-05,132
+SKU-0318,Block print Dupatta (Cotton),Dupatta,Sage green,XXL,158,847,SUP-009,2024-06-08,83
+SKU-0319,Ikat Dupatta (Cotton),Dupatta,Sage green,XL,179,713,SUP-008,2024-09-22,137
+SKU-0320,Chikankari Dupatta (Silk blend),Dupatta,Teal,L,225,763,SUP-008,2024-08-24,39
+SKU-0321,Shibori Dupatta (Rayon),Dupatta,Ochre,L,199,749,SUP-009,2024-08-04,74
+SKU-0322,Dabu print Dupatta (Silk blend),Dupatta,Charcoal,XL,226,433,SUP-004,2024-08-28,79
+SKU-0323,Ajrakh Dupatta (Silk blend),Dupatta,Sage green,XL,126,419,SUP-010,2024-07-14,55
+SKU-0324,Shibori Dupatta (Rayon),Dupatta,Terracotta,XL,239,733,SUP-002,2024-06-29,98
+SKU-0325,Bagru print Dupatta (Cotton),Dupatta,Rust,M,250,436,SUP-009,2024-06-06,114
+SKU-0326,Ajrakh Dupatta (Rayon),Dupatta,Sage green,S,247,745,SUP-009,2024-06-10,100
+SKU-0327,Bagru print Dupatta (Rayon),Dupatta,Indigo,L,205,638,SUP-010,2024-08-29,72
+SKU-0328,Ajrakh Dupatta (Linen),Dupatta,Ochre,S,205,526,SUP-001,2024-11-01,103
+SKU-0329,Mirror work Dupatta (Cotton),Dupatta,Indigo,S,204,354,SUP-002,2024-11-16,45
+SKU-0330,Chikankari Dupatta (Linen),Dupatta,Blush pink,XXL,231,784,SUP-010,2024-07-16,128
+SKU-0331,Chikankari Dupatta (Rayon),Dupatta,Sage green,S,182,398,SUP-004,2024-10-17,139
+SKU-0332,Bagru print Dupatta (Rayon),Dupatta,Ochre,L,235,563,SUP-009,2024-06-28,69
+SKU-0333,Block print Dupatta (Georgette),Dupatta,Indigo,XS,177,633,SUP-008,2024-10-23,32
+SKU-0334,Ikat Dupatta (Silk blend),Dupatta,Ochre,L,163,446,SUP-007,2024-10-07,118
+SKU-0335,Kalamkari Dupatta (Silk blend),Dupatta,Blush pink,L,242,527,SUP-010,2024-06-24,37
+SKU-0336,Ikat Dupatta (Rayon),Dupatta,Mauve,XS,271,825,SUP-008,2024-10-08,111
+SKU-0337,Ajrakh Dupatta (Georgette),Dupatta,Rust,XL,161,665,SUP-003,2024-11-06,56
+SKU-0338,Mirror work Dupatta (Cotton),Dupatta,Ivory,XL,233,712,SUP-005,2024-10-09,33
+SKU-0339,Shibori Dupatta (Mul mul),Dupatta,Teal,XS,229,595,SUP-007,2024-10-30,146
+SKU-0340,Ajrakh Dupatta (Mul mul),Dupatta,Ochre,S,140,507,SUP-007,2024-11-05,56
+SKU-0341,Block print Dupatta (Mul mul),Dupatta,Charcoal,L,188,374,SUP-002,2024-07-10,55
+SKU-0342,Ikat Dupatta (Linen),Dupatta,Indigo,XXL,245,482,SUP-003,2024-11-09,89
+SKU-0343,Shibori Dupatta (Rayon),Dupatta,Blush pink,S,240,744,SUP-006,2024-08-02,32
+SKU-0344,Dabu print Dupatta (Rayon),Dupatta,Blush pink,S,195,825,SUP-001,2024-10-19,114
+SKU-0345,Ajrakh Dupatta (Chanderi),Dupatta,Charcoal,XXL,153,390,SUP-001,2024-09-28,98
+SKU-0346,Bandhani Dupatta (Cotton),Dupatta,Sage green,XL,227,488,SUP-002,2024-08-16,95
+SKU-0347,Block print Dupatta (Georgette),Dupatta,Teal,M,275,396,SUP-004,2024-06-23,87
+SKU-0348,Kalamkari Dupatta (Silk blend),Dupatta,Charcoal,XL,272,652,SUP-005,2024-10-11,75
+SKU-0349,Chikankari Dupatta (Cotton),Dupatta,Rust,L,261,833,SUP-002,2024-06-26,144
+SKU-0350,Ajrakh Dupatta (Linen),Dupatta,Ochre,XXL,253,600,SUP-004,2024-06-20,146
+SKU-0351,Bandhani Dupatta (Linen),Dupatta,Sage green,XS,191,539,SUP-009,2024-10-14,69
+SKU-0352,Mirror work Dupatta (Georgette),Dupatta,Ochre,XS,207,619,SUP-003,2024-06-17,139
+SKU-0353,Shibori Dupatta (Mul mul),Dupatta,Sage green,XL,250,775,SUP-007,2024-10-30,107
+SKU-0354,Chikankari Dupatta (Cotton),Dupatta,Rust,L,182,422,SUP-008,2024-07-17,67
+SKU-0355,Shibori Dupatta (Cotton),Dupatta,Blush pink,L,180,513,SUP-009,2024-10-19,43
+SKU-0356,Shibori Dupatta (Mul mul),Dupatta,Sage green,L,172,576,SUP-008,2024-09-01,31
+SKU-0357,Mirror work Dupatta (Cotton),Dupatta,Blush pink,XL,224,474,SUP-001,2024-07-31,77
+SKU-0358,Ajrakh Dupatta (Rayon),Dupatta,Mauve,XL,277,617,SUP-004,2024-10-14,130
+SKU-0359,Block print Dupatta (Chanderi),Dupatta,Blush pink,XS,256,673,SUP-008,2024-10-14,74
+SKU-0360,Mirror work Dupatta (Mul mul),Dupatta,Charcoal,M,206,780,SUP-010,2024-09-03,81
+SKU-0361,Bandhani Dupatta (Linen),Dupatta,Sage green,XS,212,755,SUP-003,2024-10-28,33
+SKU-0362,Ikat Dupatta (Linen),Dupatta,Rust,XXL,174,804,SUP-002,2024-08-18,117
+SKU-0363,Block print Dupatta (Georgette),Dupatta,Ochre,XXL,210,788,SUP-006,2024-08-05,54
+SKU-0364,Mirror work Dupatta (Chanderi),Dupatta,Blush pink,M,264,410,SUP-010,2024-11-06,94
+SKU-0365,Bagru print Dupatta (Linen),Dupatta,Rust,XL,212,458,SUP-004,2024-08-11,85
+SKU-0366,Block print Dupatta (Linen),Dupatta,Blush pink,M,260,538,SUP-004,2024-09-30,126
+SKU-0367,Kalamkari Dupatta (Cotton),Dupatta,Terracotta,M,209,644,SUP-006,2024-08-25,134
+SKU-0368,Block print Dupatta (Cotton),Dupatta,Ivory,XL,128,693,SUP-003,2024-10-12,88
+SKU-0369,Bandhani Dupatta (Silk blend),Dupatta,Ivory,L,160,388,SUP-003,2024-06-30,105
+SKU-0370,Block print Dupatta (Rayon),Dupatta,Terracotta,L,191,805,SUP-010,2024-08-01,98
+SKU-0371,Chikankari Dress (Cotton),Dress,Sage green,S,427,1958,SUP-002,2024-08-23,95
+SKU-0372,Ikat Dress (Chanderi),Dress,Mauve,M,743,2089,SUP-008,2024-06-10,113
+SKU-0373,Bandhani Dress (Georgette),Dress,Charcoal,S,532,1431,SUP-009,2024-07-19,103
+SKU-0374,Mirror work Dress (Cotton),Dress,Charcoal,L,726,2009,SUP-003,2024-09-28,113
+SKU-0375,Mirror work Dress (Silk blend),Dress,Blush pink,S,574,1728,SUP-001,2024-11-16,70
+SKU-0376,Chikankari Dress (Rayon),Dress,Terracotta,XL,687,1518,SUP-005,2024-09-14,91
+SKU-0377,Chikankari Dress (Cotton),Dress,Ochre,L,468,1322,SUP-005,2024-06-18,83
+SKU-0378,Chikankari Dress (Cotton),Dress,Mauve,XXL,526,1519,SUP-010,2024-08-11,59
+SKU-0379,Shibori Dress (Georgette),Dress,Teal,M,607,1294,SUP-010,2024-06-15,86
+SKU-0380,Bagru print Dress (Mul mul),Dress,Mauve,L,537,1778,SUP-005,2024-10-15,85
+SKU-0381,Bandhani Dress (Rayon),Dress,Terracotta,L,740,1658,SUP-002,2024-06-23,121
+SKU-0382,Block print Dress (Linen),Dress,Mauve,S,545,1494,SUP-004,2024-09-30,85
+SKU-0383,Ikat Dress (Cotton),Dress,Indigo,XL,623,1932,SUP-008,2024-10-18,117
+SKU-0384,Ikat Dress (Chanderi),Dress,Ochre,M,486,1174,SUP-010,2024-10-04,80
+SKU-0385,Kalamkari Dress (Linen),Dress,Terracotta,XL,725,1361,SUP-010,2024-09-20,66
+SKU-0386,Bandhani Dress (Georgette),Dress,Ochre,L,589,1223,SUP-002,2024-08-09,102
+SKU-0387,Ikat Dress (Cotton),Dress,Ochre,L,704,1176,SUP-005,2024-09-20,66
+SKU-0388,Mirror work Dress (Rayon),Dress,Teal,M,724,1773,SUP-003,2024-08-01,71
+SKU-0389,Kalamkari Dress (Mul mul),Dress,Teal,L,528,1861,SUP-003,2024-08-25,30
+SKU-0390,Ajrakh Dress (Silk blend),Dress,Sage green,M,511,1582,SUP-001,2024-06-30,128
+SKU-0391,Dabu print Dress (Silk blend),Dress,Mauve,XL,671,1203,SUP-008,2024-06-19,57
+SKU-0392,Ikat Dress (Linen),Dress,Rust,M,424,1756,SUP-005,2024-08-09,127
+SKU-0393,Mirror work Dress (Silk blend),Dress,Teal,L,686,1345,SUP-005,2024-06-22,110
+SKU-0394,Dabu print Dress (Mul mul),Dress,Ochre,XS,603,2143,SUP-003,2024-10-03,48
+SKU-0395,Mirror work Dress (Georgette),Dress,Teal,S,573,1719,SUP-004,2024-09-27,131
+SKU-0396,Shibori Dress (Silk blend),Dress,Indigo,XS,494,1506,SUP-003,2024-06-28,82
+SKU-0397,Bandhani Dress (Georgette),Dress,Sage green,XL,638,1181,SUP-003,2024-08-18,77
+SKU-0398,Block print Dress (Cotton),Dress,Ivory,M,748,1215,SUP-006,2024-08-29,96
+SKU-0399,Chikankari Dress (Chanderi),Dress,Ochre,XL,744,2136,SUP-006,2024-10-18,72
+SKU-0400,Kalamkari Dress (Mul mul),Dress,Indigo,XS,742,2005,SUP-008,2024-10-07,64
+SKU-0401,Bandhani Dress (Silk blend),Dress,Indigo,S,603,1156,SUP-001,2024-10-02,133
+SKU-0402,Bandhani Dress (Cotton),Dress,Sage green,XS,746,1641,SUP-005,2024-07-06,30
+SKU-0403,Kalamkari Dress (Mul mul),Dress,Charcoal,XS,456,1240,SUP-004,2024-07-05,64
+SKU-0404,Chikankari Dress (Cotton),Dress,Indigo,XXL,613,1802,SUP-004,2024-08-06,59
+SKU-0405,Bandhani Dress (Silk blend),Dress,Ochre,S,494,2009,SUP-008,2024-10-15,46
+SKU-0406,Bagru print Dress (Georgette),Dress,Indigo,M,581,1421,SUP-008,2024-11-05,116
+SKU-0407,Chikankari Dress (Rayon),Dress,Teal,XS,539,2150,SUP-001,2024-07-23,134
+SKU-0408,Kalamkari Dress (Silk blend),Dress,Mauve,M,577,1536,SUP-009,2024-11-05,54
+SKU-0409,Chikankari Dress (Georgette),Dress,Terracotta,S,633,1130,SUP-004,2024-08-29,101
+SKU-0410,Ajrakh Dress (Linen),Dress,Indigo,L,473,1759,SUP-004,2024-06-11,82
+SKU-0411,Chikankari Dress (Chanderi),Dress,Teal,XXL,441,2153,SUP-002,2024-11-14,111
+SKU-0412,Shibori Dress (Mul mul),Dress,Ivory,XS,667,1453,SUP-001,2024-07-14,122
+SKU-0413,Bagru print Dress (Chanderi),Dress,Blush pink,XS,573,1393,SUP-006,2024-08-23,98
+SKU-0414,Shibori Dress (Cotton),Dress,Rust,XS,739,1767,SUP-002,2024-07-02,73
+SKU-0415,Bandhani Dress (Cotton),Dress,Ochre,L,519,2010,SUP-003,2024-09-28,66
+SKU-0416,Block print Dress (Mul mul),Dress,Charcoal,S,605,1570,SUP-007,2024-06-14,114
+SKU-0417,Block print Dress (Mul mul),Dress,Ivory,L,654,2136,SUP-009,2024-08-09,123
+SKU-0418,Bandhani Dress (Silk blend),Dress,Mauve,S,620,1632,SUP-001,2024-08-26,130
+SKU-0419,Shibori Dress (Silk blend),Dress,Indigo,XXL,723,1970,SUP-003,2024-10-21,137
+SKU-0420,Ikat Dress (Georgette),Dress,Indigo,XS,432,1309,SUP-009,2024-06-30,67
+SKU-0421,Chikankari Dress (Rayon),Dress,Indigo,XS,729,2051,SUP-008,2024-08-10,37
+SKU-0422,Mirror work Dress (Mul mul),Dress,Mauve,L,682,1373,SUP-008,2024-11-15,83
+SKU-0423,Bandhani Dress (Rayon),Dress,Charcoal,XS,484,1455,SUP-006,2024-10-28,83
+SKU-0424,Kalamkari Dress (Chanderi),Dress,Mauve,XXL,557,1664,SUP-008,2024-10-05,31
+SKU-0425,Bandhani Dress (Georgette),Dress,Ochre,XS,557,1774,SUP-006,2024-06-18,145
+SKU-0426,Ikat Dress (Chanderi),Dress,Terracotta,XXL,443,1640,SUP-001,2024-06-18,113
+SKU-0427,Dabu print Dress (Mul mul),Dress,Ochre,XL,538,1883,SUP-010,2024-08-06,88
+SKU-0428,Kalamkari Dress (Linen),Dress,Teal,XL,594,1844,SUP-009,2024-06-09,62
+SKU-0429,Kalamkari Dress (Mul mul),Dress,Teal,L,474,1618,SUP-003,2024-09-22,102
+SKU-0430,Block print Dress (Georgette),Dress,Charcoal,XL,579,1430,SUP-006,2024-11-10,88
+SKU-0431,Shibori Dress (Rayon),Dress,Indigo,S,551,1715,SUP-007,2024-06-14,73
+SKU-0432,Bagru print Dress (Cotton),Dress,Teal,XL,637,1615,SUP-008,2024-08-20,125
+SKU-0433,Shibori Dress (Cotton),Dress,Terracotta,L,562,1639,SUP-007,2024-10-27,135
+SKU-0434,Bandhani Dress (Silk blend),Dress,Mauve,L,445,2148,SUP-001,2024-07-03,78
+SKU-0435,Bagru print Dress (Linen),Dress,Charcoal,XS,594,1663,SUP-002,2024-08-08,55
+SKU-0436,Ikat Dress (Cotton),Dress,Blush pink,XXL,660,1104,SUP-001,2024-08-26,79
+SKU-0437,Dabu print Dress (Rayon),Dress,Mauve,XXL,645,1114,SUP-006,2024-09-18,91
+SKU-0438,Dabu print Dress (Linen),Dress,Rust,XXL,505,1545,SUP-006,2024-09-01,122
+SKU-0439,Block print Dress (Cotton),Dress,Indigo,M,427,1592,SUP-006,2024-08-02,70
+SKU-0440,Bagru print Dress (Silk blend),Dress,Terracotta,XXL,691,1679,SUP-009,2024-08-11,105
+SKU-0441,Ajrakh Dress (Silk blend),Dress,Teal,XXL,558,1456,SUP-006,2024-08-21,111
+SKU-0442,Ajrakh Dress (Cotton),Dress,Mauve,S,573,1719,SUP-002,2024-07-26,148
+SKU-0443,Ikat Dress (Georgette),Dress,Ivory,M,427,1461,SUP-007,2024-11-10,110
+SKU-0444,Mirror work Dress (Mul mul),Dress,Charcoal,XL,606,1853,SUP-010,2024-08-24,65
+SKU-0445,Ajrakh Dress (Georgette),Dress,Blush pink,M,520,1270,SUP-006,2024-08-06,130
+SKU-0446,Bandhani Dress (Mul mul),Dress,Terracotta,L,574,1988,SUP-009,2024-08-17,83
+SKU-0447,Bandhani Dress (Cotton),Dress,Charcoal,XL,667,1766,SUP-007,2024-10-15,142
+SKU-0448,Kalamkari Dress (Linen),Dress,Rust,M,742,2079,SUP-001,2024-06-23,132
+SKU-0449,Ajrakh Dress (Rayon),Dress,Sage green,XL,510,1817,SUP-004,2024-11-01,82
+SKU-0450,Block print Dress (Chanderi),Dress,Terracotta,XL,510,1423,SUP-004,2024-07-27,145
+SKU-0451,Shibori Palazzo (Cotton),Palazzo,Mauve,S,286,815,SUP-001,2024-09-20,46
+SKU-0452,Kalamkari Palazzo (Silk blend),Palazzo,Blush pink,M,221,903,SUP-005,2024-09-11,128
+SKU-0453,Bandhani Palazzo (Rayon),Palazzo,Teal,S,275,831,SUP-008,2024-07-26,34
+SKU-0454,Chikankari Palazzo (Chanderi),Palazzo,Sage green,S,348,1011,SUP-004,2024-07-09,138
+SKU-0455,Chikankari Palazzo (Linen),Palazzo,Charcoal,M,335,917,SUP-004,2024-06-24,44
+SKU-0456,Bagru print Palazzo (Georgette),Palazzo,Sage green,S,364,916,SUP-008,2024-10-25,53
+SKU-0457,Chikankari Palazzo (Rayon),Palazzo,Mauve,XXL,203,839,SUP-005,2024-07-25,91
+SKU-0458,Mirror work Palazzo (Rayon),Palazzo,Charcoal,S,368,1058,SUP-008,2024-09-25,36
+SKU-0459,Ikat Palazzo (Silk blend),Palazzo,Rust,XXL,302,634,SUP-004,2024-09-18,121
+SKU-0460,Shibori Palazzo (Rayon),Palazzo,Teal,S,275,587,SUP-002,2024-06-07,59
+SKU-0461,Bandhani Palazzo (Linen),Palazzo,Charcoal,XXL,300,1086,SUP-006,2024-07-29,129
+SKU-0462,Kalamkari Palazzo (Linen),Palazzo,Mauve,XS,238,1077,SUP-007,2024-10-27,60
+SKU-0463,Ajrakh Palazzo (Georgette),Palazzo,Charcoal,XS,369,751,SUP-010,2024-10-17,115
+SKU-0464,Shibori Palazzo (Silk blend),Palazzo,Mauve,XL,216,985,SUP-006,2024-07-30,142
+SKU-0465,Ikat Palazzo (Cotton),Palazzo,Charcoal,S,264,740,SUP-008,2024-09-28,44
+SKU-0466,Mirror work Palazzo (Cotton),Palazzo,Teal,S,295,972,SUP-007,2024-07-18,86
+SKU-0467,Mirror work Palazzo (Linen),Palazzo,Sage green,L,280,967,SUP-005,2024-09-06,32
+SKU-0468,Chikankari Palazzo (Cotton),Palazzo,Ivory,M,280,625,SUP-010,2024-07-29,44
+SKU-0469,Ikat Palazzo (Chanderi),Palazzo,Ivory,M,299,1093,SUP-004,2024-08-14,64
+SKU-0470,Chikankari Palazzo (Mul mul),Palazzo,Blush pink,M,277,819,SUP-003,2024-06-09,35
+SKU-0471,Kalamkari Palazzo (Cotton),Palazzo,Mauve,M,320,717,SUP-006,2024-08-27,133
+SKU-0472,Bandhani Palazzo (Silk blend),Palazzo,Terracotta,XS,212,789,SUP-004,2024-09-15,124
+SKU-0473,Bagru print Palazzo (Linen),Palazzo,Rust,XS,371,700,SUP-005,2024-11-16,101
+SKU-0474,Bandhani Palazzo (Chanderi),Palazzo,Teal,M,206,755,SUP-003,2024-07-22,111
+SKU-0475,Kalamkari Palazzo (Silk blend),Palazzo,Mauve,M,271,673,SUP-001,2024-07-28,35
+SKU-0476,Kalamkari Palazzo (Linen),Palazzo,Blush pink,M,296,1066,SUP-001,2024-09-22,91
+SKU-0477,Mirror work Palazzo (Rayon),Palazzo,Indigo,XXL,249,1038,SUP-007,2024-10-30,97
+SKU-0478,Mirror work Palazzo (Georgette),Palazzo,Teal,XXL,232,690,SUP-007,2024-08-26,48
+SKU-0479,Bagru print Palazzo (Chanderi),Palazzo,Terracotta,XS,327,1026,SUP-009,2024-06-23,37
+SKU-0480,Ajrakh Palazzo (Linen),Palazzo,Terracotta,XL,261,751,SUP-009,2024-11-01,98
+SKU-0481,Bandhani Palazzo (Chanderi),Palazzo,Indigo,XS,281,1023,SUP-003,2024-09-08,109
+SKU-0482,Dabu print Palazzo (Silk blend),Palazzo,Teal,M,201,715,SUP-006,2024-10-27,49
+SKU-0483,Bandhani Palazzo (Mul mul),Palazzo,Rust,S,240,697,SUP-005,2024-08-02,63
+SKU-0484,Dabu print Palazzo (Cotton),Palazzo,Ivory,XXL,349,683,SUP-009,2024-10-22,88
+SKU-0485,Ikat Palazzo (Cotton),Palazzo,Rust,S,299,608,SUP-009,2024-11-16,39
+SKU-0486,Mirror work Palazzo (Silk blend),Palazzo,Mauve,M,252,628,SUP-008,2024-09-20,51
+SKU-0487,Block print Palazzo (Cotton),Palazzo,Sage green,XS,299,963,SUP-009,2024-10-24,65
+SKU-0488,Dabu print Palazzo (Linen),Palazzo,Ochre,XS,282,969,SUP-010,2024-09-06,143
+SKU-0489,Ikat Palazzo (Silk blend),Palazzo,Mauve,XS,226,603,SUP-004,2024-06-08,122
+SKU-0490,Dabu print Palazzo (Silk blend),Palazzo,Blush pink,L,322,622,SUP-001,2024-06-16,72
+SKU-0491,Block print Palazzo (Rayon),Palazzo,Teal,L,320,590,SUP-001,2024-10-10,139
+SKU-0492,Bagru print Palazzo (Silk blend),Palazzo,Indigo,M,268,848,SUP-010,2024-10-15,62
+SKU-0493,Chikankari Palazzo (Chanderi),Palazzo,Indigo,XXL,274,1077,SUP-003,2024-08-28,65
+SKU-0494,Dabu print Palazzo (Linen),Palazzo,Ivory,M,262,1053,SUP-008,2024-07-10,80
+SKU-0495,Shibori Palazzo (Georgette),Palazzo,Ivory,L,272,1058,SUP-001,2024-07-07,83
+SKU-0496,Ajrakh Palazzo (Rayon),Palazzo,Terracotta,M,236,736,SUP-006,2024-08-25,69
+SKU-0497,Kalamkari Palazzo (Georgette),Palazzo,Indigo,S,363,801,SUP-006,2024-08-03,40
+SKU-0498,Mirror work Palazzo (Mul mul),Palazzo,Ivory,M,203,763,SUP-006,2024-07-06,143
+SKU-0499,Mirror work Palazzo (Rayon),Palazzo,Mauve,XS,320,934,SUP-010,2024-08-08,121
+SKU-0500,Ikat Palazzo (Silk blend),Palazzo,Rust,L,220,791,SUP-005,2024-08-01,30
