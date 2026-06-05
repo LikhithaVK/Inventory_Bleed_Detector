@@ -2,8 +2,6 @@
 
 A prescriptive analytics project for textile and fashion companies — diagnoses which inventory is silently draining profit, prescribes markdown actions to recover margin, and uses Machine Learning to forecast smarter buying for next season.
 
-Built as a portfolio project targeting fashion brands like Savana Mythra.
-
 ---
 
 ## What it does
